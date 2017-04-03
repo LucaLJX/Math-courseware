@@ -1,0 +1,165 @@
+.pop_up_fixed {
+	position: fixed !important;
+	top: 0.4rem;
+}
+.z_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_line_group_1{
+    top: 1.6rem;
+    left: 3.72rem;
+}
+.z_line_group_2{
+    transform:rotate(-25deg);
+    top: 1.6rem;
+    left: 3.3rem;
+}
+/*箭头*/
+.zlg_line_1{
+    float: left;
+    width: 0.02rem !important;
+    height: 0.4rem !important;
+    margin: 0.118rem 0 0 0.03rem !important;
+}
+.zlg_line_2{
+    float: left;
+    width: 0.02rem !important;
+    height: 0.5rem !important;
+    margin: 0.118rem 0 0 0.03rem !important;
+}
+
+.arrow{
+    display: inline-block;
+    border: 0.01rem solid;
+    width: 0;
+    height: 0;
+    vertical-align: middle;
+    background: none;
+}
+.arrow-top{
+    border-top-color: rgba(0,0,0,0);
+    border-top-width: 0;
+    border-right-color: rgba(0,0,0,0);
+    border-right-width: 0.04rem;
+    border-bottom-color: #fff;
+    border-bottom-width: 0.12rem;
+    border-left-color: rgba(0,0,0,0);
+    border-left-width: 0.04rem;
+}
+.z_left {
+	width: 50%;
+	/*text-align: center;*/
+}
+
+.z_ab {
+	position: absolute;
+}
+.z_btn {
+	/*todo*/
+}
+.z_pre_btn_container {
+	bottom: 0.2rem;
+    right: 1.2rem;
+}
+.z_next_btn_container {
+	bottom: 0.2rem;
+    right: 0.5rem;
+}
+
+
+.z1 {
+    top: 0.7rem;
+    left: 3rem;
+}
+.z11,.z12 {
+    top: 0.7rem;
+    left: 4.4rem;
+}
+.z21 {
+    top: 1.2rem;
+    left: 3.2rem;
+}
+.z22 {
+	top: 1.2rem;
+    left: 3.7rem;
+}
+.z41 {
+    top: 2.1rem;
+    left: 2.7rem;
+}
+.z42 {
+	top: 2.1rem;
+    left: 3.7rem;
+}
+/* 三根线 - begin */
+.zl1 {
+    width: 1.0rem;
+    top: 2.5rem;
+    left: 2.3rem;
+}
+.zl2 {
+    width: 0.3rem;
+    top: 2.5rem;
+    left: 3.3rem;
+}
+.zl3 {
+    width: 0.7rem;
+    top: 2.5rem;
+    left: 3.6rem;
+}
+/* 三根线 - end */
+
+.z50 {
+    top: 2.2rem;
+    left: 3.4rem;
+    font-size: 0.2rem;
+}
+.z51 {
+    top: 2.5rem;
+    left: 3.2rem;
+}
+.z52 {
+	top: 2.5rem;
+    left: 3.7rem;
+}
+
+/* 右边部分 */
+
+.r11 {
+    top: 1.5rem;
+    left: 5rem
+}
+.r12 {
+    top: 1.5rem;
+    left: 6.2rem
+}
+.r21 {
+    top: 1.9rem;
+    left: 5rem
+}
+.r22 {
+    top: 1.9rem;
+    left: 6.2rem
+}
+.r31 {
+    top: 2.3rem;
+    left: 5rem
+}
+.r32 {
+    top: 2.3rem;
+    left: 6.2rem
+}
+
+/*按钮*/
+
+.button-left {
+    top: 4.7rem;
+    left: 6rem;
+}
+.button-right {
+    top: 4.7rem;
+    left: 7rem;
+}
+

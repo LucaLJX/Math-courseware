@@ -1,0 +1,95 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+  display: none;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.z_luca_box {
+  border: 2px solid;
+  width: 0.2rem;
+  height: 1.1rem;
+}
+
+/* tab-1 - begin */
+
+.zi_111 {top: 0.00rem; left: 0.50rem;}
+.zi_112 {top: 0.00rem; left: 0.80rem;}
+.zi_113 {top: 0.00rem; left: 1.10rem;}
+.zi_114 {top: 0.00rem; left: 1.40rem;}
+.zi_115 {top: 0.00rem; left: 1.70rem;}
+
+.zi_121 {top: 0.40rem; left: 0.50rem;}
+.zi_122 {top: 0.40rem; left: 0.80rem;}
+.zi_123 {top: 0.40rem; left: 1.10rem;}
+.zi_124 {top: 0.40rem; left: 1.40rem;}
+.zi_125 {top: 0.40rem; left: 1.70rem;}
+
+.zi_131 {top: 0.80rem; left: 0.50rem;}
+.zi_132 {top: 0.80rem; left: 0.80rem;}
+.zi_133 {top: 0.80rem; left: 1.10rem;}
+.zi_134 {top: 0.80rem; left: 1.40rem;}
+.zi_135 {top: 0.80rem; left: 1.70rem;}
+
+.zi_141 {top: 1.20rem; left: 0.50rem;}
+.zi_142 {top: 1.20rem; left: 0.80rem;}
+.zi_143 {top: 1.20rem; left: 1.10rem;}
+.zi_144 {top: 1.20rem; left: 1.40rem;}
+.zi_145 {top: 1.20rem; left: 1.70rem;}
+.zi_146 {top: 1.20rem; left: 2.00rem;}
+.zi_147 {top: 1.20rem; left: 2.30rem;}
+
+.zi_151 {top: 0.00rem; left: 4.50rem;}
+.zi_152 {top: 0.60rem; left: 4.50rem;}
+.zi_153 {top: 1.20rem; left: 4.50rem;}
+
+.zi_161 {top: 0.10rem; left: 0.45rem; border-color: red;}
+.zi_162 {top: 0.10rem; left: 1.05rem; border-color: yellow;}
+.zi_163 {top: 0.10rem; left: 1.65rem; border-color: green;}
+
+.zi_171 {top: 1.20rem; left: 0.20rem;}
+.zi_172 {top: 1.20rem; left: 0.40rem;}
+.zi_173 {top: 1.20rem; left: 1.80rem;}
+.zi_174 {top: 1.20rem; left: 3.35rem;}
+.zi_175 {top: 1.20rem; left: 3.60rem;}
+
+.zi_2333 {top: 0.33rem; left: 0.20rem; font-size: 1.00rem;}
+
+/* tab-1 - end */
+
+/* tab-2 - begin */
+
+.zi_211 {top: 0.00rem; left: 0.60rem;}
+.zi_212 {top: 0.40rem; left: 0.60rem;}
+.zi_213 {top: 0.80rem; left: 0.60rem;}
+
+.zi_221 {top: 0.00rem; left: 2.40rem;}
+.zi_222 {top: 0.40rem; left: 2.40rem;}
+.zi_223 {top: 0.80rem; left: 2.40rem;}
+
+.zi_2301 {top: 0.00rem; left: 3.20rem;}
+.zi_2302 {top: 0.40rem; left: 3.20rem;}
+.zi_2303 {top: 0.80rem; left: 3.20rem;}
+.zi_2304 {top: 1.20rem; left: 3.20rem;}
+.zi_2305 {top: 1.60rem; left: 3.20rem;}
+.zi_2306 {top: 2.00rem; left: 3.20rem;}
+.zi_2307 {top: 2.40rem; left: 3.20rem;}
+.zi_2308 {top: 2.80rem; left: 3.20rem;}
+.zi_2309 {top: 3.20rem; left: 3.20rem;}
+.zi_2310 {top: 4.00rem; left: 3.20rem;}
+.zi_2311 {top: 3.60rem; left: 6.50rem;}
+.zi_2312 {top: 4.00rem; left: 6.50rem;}
+.zi_2313 {top: 4.40rem; left: 6.50rem;}
+
+.zi_241 {top: 0.35rem; left: 0.20rem; font-size: 1.00rem;}
+.zi_242 {top: 1.35rem; left: 2.90rem; font-size: 0.60rem;}
+.zi_243 {top: 2.55rem; left: 2.90rem; font-size: 0.60rem;}
+.zi_244 {top: 3.90rem; left: 6.00rem; font-size: 1.00rem;}
+
+/* tab-2 - end */

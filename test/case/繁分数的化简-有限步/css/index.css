@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.initial{
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+.initial,.record-animat-one,.record-animat-two,.record-animat-three,.record-animat-four{
+    display: none;
+}
+.initial-animat{
+    position: relative;
+    margin-top: 0.5rem;
+   
+}
+.inline{
+     display: inline-block;
+}
+.block{
+    display: block;
+}
+.rigth-top{
+    height: 1.0285em;
+    line-height: 1.0285em;
+    border-bottom: 2px solid #fff;
+}
+.left{
+    height: 2.0571em;
+    line-height: 2.0571em;
+}
+.pad{
+    padding: 0 0.2857em;
+}
+.one-left{
+    line-height: 2.1428em;
+    height: 4.1714em;
+    overflow: hidden;
+}
+.one-rigth{
+    height: 4.1714em;
+}
+.one-rigth-top{
+    padding-left: 1.7142em;
+}
+.two{
+    height: 1.7142em;
+    position: relative;
+}
+.two-left{
+    line-height: 2.3428em;
+    height: 3.0857em;
+    overflow: hidden;
+}
+.two-rigth{
+    height: 3.0857em;
+}
+.two-rigth-top{
+    padding-left: 0.8571em;
+}
+.three{
+    position: relative;
+}
+.three-left{
+    line-height: 1.6571em;
+    overflow: hidden;
+}
+.three-rigth,.three{
+    height: 1.6571em;
+}
+.four{
+    border-bottom: none;
+}
+/*动画*/
+/*第一步*/
+.left-rigth{
+    width: 0px;
+}
+.dot-top{
+    opacity: 0;
+}
+.color,.color .rigth-top{
+    color: #999;
+    border-color: #999;
+}
+.position_color,.position_color .rigth-top{
+    color: #fff;
+    border-color: #fff;
+}
+.three-position{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+/*第二步*/
+.two-position{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.two-animat-position{
+    position: absolute;
+    left: 2.4857em;
+    top: -0.1428em;
+}
+.two-animat-position-rigth{
+    position: absolute;
+    left: -5.4375em;
+    top: 0.1428em;
+}
+.two-animat-position-rigth-top{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.two-animat-position-rigth-dot{
+    position: absolute;
+    left: 0px;
+    top: 0.1428em;
+}
+.animat-red{
+    display: none;
+    position: absolute;
+    width: 1em;
+    height: 0.0857em;
+    background: red;
+    transform: rotate(45deg);
+}
+.dot-red-three{
+    top: 1.3714em;
+    left: 0.7142em;
+}
+.dot-red-two{
+    top: 0.8285em;
+    left: 2.0285em;
+}
+.top-red-one{
+    top: 0.2857em;
+    left: 0.7142em;
+}
+.dot-red-one{
+    top: 0.2857em;
+    left: 0.7142em;
+}
+.red{
+    display: block;
+}
+/*第4步*/
+.six{
+    padding:0 0.2285em;
+}
+.seven-maing{
+    padding-right: 0.5714em;
+    position: relative;
+}
+.seven{
+    width: 0.4em;
+    height: 2px;
+    background: #fff;
+    position: absolute;
+    top: 1.0285em;
+    left: 1.1142em;
+}
+.one-rigth-position{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.one-rigth-position .three-rigth-top{
+    width: 0.5142em;
+}
+.equal{
+    position: absolute;
+    top: 0.1142em;
+    left: 5.7em;
+    width: 0;
+    overflow: hidden;
+}
+
+.next-btn{background: #120030;}
+.prev-btn{background: #120030;}

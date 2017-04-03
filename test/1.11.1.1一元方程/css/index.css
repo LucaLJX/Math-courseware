@@ -1,0 +1,76 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.zi_display {
+  display: none;
+}
+
+.z_box {
+  border: 2px solid;
+}
+
+
+
+.zi_11 {
+  top: 1.1rem;
+  left: 3.76rem;
+  width: 0.35rem;
+  height: 0.5rem;
+  border-color: #fff336;
+}
+
+.zi_21 {left: 0.4rem; top: 0rem;}
+.zi_22 {left: 0.4rem; top: 0.4rem;}
+
+.zi_31 {left: 0.32rem; top: 0.9rem;}
+
+.zi_41 {left: 2.5rem; top: 1rem;}
+.zi_42 {left: 3.87rem; top: 1rem;}
+
+.zi_51 {width: 2.5rem; left: 2.5rem; top: 1.4rem;}
+.zi_52 {left: 2.9rem; top: 1.16rem;}
+.zi_53 {left: 3.2rem; top: 1.16rem;}
+.zi_54 {left: 3.5rem; top: 1.16rem;}
+.zi_55 {width: 4.3rem; left: 3.8rem; top: 1.4rem;}
+.zi_56 {left: 4.2rem; top: 1.16rem;}
+.zi_57 {left: 4.5rem; top: 1.16rem;}
+
+.zi_61 {left: 2.57rem; top: 1.25rem;}
+.zi_62 {left: 3.87rem; top: 1.25rem;}
+
+.zi_71 {left: 3.87rem; top: 1.53rem;}
+
+.zi_81 {left: 3.87rem; top: 1.8rem;}
+
+.zi_91 {left: 2.5rem; top: 2.1rem;}
+.zi_92 {left: 3.87rem; top: 2.1rem;}
+
+.zi_101 {width: 0.3rem; left: 2.5rem; top: 2.5rem;}
+.zi_102 {left: 2.9rem; top: 2.26rem;}
+.zi_103 {left: 3.2rem; top: 2.26rem;}
+.zi_104 {left: 3.5rem; top: 2.26rem;}
+.zi_105 {width: 0.3rem; left: 3.8rem; top: 2.5rem;}
+.zi_106 {left: 4.2rem; top: 2.26rem;}
+.zi_107 {left: 4.5rem; top: 2.26rem;}
+.zi_108 {left: 2.53rem; top: 2.26rem;}
+.zi_109 {left: 3.87rem; top: 2.26rem;}
+
+.zi_111 {left: 2.57rem; top: 2.35rem;}
+.zi_112 {left: 3.87rem; top: 2.35rem;}
+
+.zi_121 {left: 2.5rem; top: 2.8rem;}
+
+.zi_131 {left: 2.57rem; top: 3.155rem;}
+.zi_132 {width: 0.3rem; left: 2.5rem; top: 3.545rem;}
+.zi_133 {left: 2.57rem; top: 3.435rem;}
+.zi_134 {left: 2.97rem; top: 3.355rem;}
+.zi_135 {left: 3.57rem; top: 3.325rem;}

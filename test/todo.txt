@@ -1,0 +1,41 @@
+基本规范:
+框架已经自动默认行高为 0.5rem
+
+
+done:已确认
+
+
+bugs:
+1.2.3.4  中等窗口中,手移动时位置调整
+5.9.1.1  改成两个窗口的形式
+
+writing:
+1.7.1.1
+...
+
+1.11.1.1一元方程
+http://www.roomm.cn/html/test/1.11.1.1/index.html
+1.2.2.3小数乘法
+http://www.roomm.cn/html/test/1.2.2.3/index.html
+1.2.3.1加减法凑整——js动画2
+http://www.roomm.cn/html/test/1.2.3.1/index.html
+1.2.3.2提取公因数——简单提取——js动画2
+http://www.roomm.cn/html/test/1.2.3.2/index.html
+1.2.3.4提取公因数——小数点移动——js动画2
+http://www.roomm.cn/html/test/1.2.3.4/index.html
+1.4.3.11分数——取倒数
+http://www.roomm.cn/html/test/1.4.3.11/index.html
+1.9.2.1三元一次方程
+http://www.roomm.cn/html/test/1.9.2.1/index.html
+5.9.1.1乘法竖式分步介绍
+http://www.roomm.cn/html/test/5.9.1.1/index.html
+
+
+我主要是这样区分的:
+1. 该文件中包含的动画模块, 比如"分数比较大小"包含6个模块
+2. 每个动画模块中包含动画的复杂度以及"上一步/下一步"的步骤数
+
+
+1. 该文件中包含的动画模块, 比如"分数比较大小"包含6个模块
+2. 每个动画模块中"动画"的复杂度
+3. 每个动画模块中"上一步/下一步"的步骤数

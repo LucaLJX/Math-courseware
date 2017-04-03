@@ -1,0 +1,110 @@
+.wrap{position: relative;}
+.content .one{position: absolute;left:6em;top: 5em; }
+.content .like{position: absolute;left: 3.8rem;top: 3.8rem;font-size:.6em;color:#fffa49; opacity: 0;}
+.content .two{width: 8em;height: 2px;background: #fff;position: absolute;left: 2.1em;top: 6.3em;}
+.content .three{position: absolute;left: 2.2em;top: 6.8em;opacity: 0;}
+.content .four{position: absolute;left: 3.4em;top: 6.8em;}
+.content .ex{position: absolute;left: 2.5em;top: 6.8em;}
+.content .five{width:7em;height: 5em;position: absolute;left: 3.1em;top:6.4em;}
+.content .five .six{position: absolute;left: 0;top: .4em;opacity: 0;}
+.content .five .seven{position: absolute;left: .6em;top: .4em;opacity: 0;}
+.content .five .eight{position: absolute;left: 3.6em;top: -.2em;}
+.content .five .nine{width:5.5em;height:2px;background:#fff;position: absolute;left: 1.5em;top: 1em;}
+.content .five .ten{position: absolute;left: 1.5em;top:1.5em;}
+.content .five .onet{position: absolute;left: 2.2em;top: 1.5em;}
+.content .five .twot{position: absolute;left: 4.4em;top: .9em;}
+.content .five .threet{width:4em;height:2px;background:#fff;position: absolute;left: 3em;top: 2.1em;}
+.content .five .fourt{position: absolute;left: 3em;top: 2.5em;}
+.content .five .fivet{position: absolute;left: 3.7em;top: 2.5em;}
+.content .five .sixt{position: absolute;left: 5.4em;top: 2em;}
+.content .five .sevent{width:2.5em;height:2px;background:#fff;position: absolute;left: 4.5em;top: 3.1em;}
+.content .five .eightt{position: absolute;left: 4.3em;top: 2.8em;}
+.content .five .ninet{font-size: .7em;position: absolute;left: 1.1em;top: .3em;}
+.content .five .left_top{width: .05em;height: 2px;background: #fffa49;position: absolute;left: 0;top: 0;opacity: 0;}
+.content .five .tentt{font-size: .6em;float: left;margin-top: .2em;}
+.content .five .right_top{width: .05em;height: 2px;background: #fffa49;position: absolute;right: 0;top: 0;opacity: 0;}
+.content .five .left_bottom{width: .05em;height: 2px;background: #fffa49;position: absolute;left:0;top: 4.9em;opacity: 0;}
+.content .five .right_bottom{width: .05em;height: 2px;background: #fffa49;position: absolute;right: 0;top: 4.9em;opacity: 0;}
+.content .five .skew_r{width: 2px;height: 4em;background:#fffa49;position: absolute;right:-2em;top: 4.9em;transform: skew(45deg);opacity: 0;}
+.content .oner{position: absolute;left: 13em;top: 5.6em;}
+.content .twor{position: absolute;left: 21.1em;top: 5em;}
+.content .threer{width:10em;height:2px;background:#fff;position: absolute;left: 16.5em;top: 6.2em;}
+.content .fourr{position: absolute;left: 17em;top: 6.7em;}
+.content .fiver{position: absolute;left: 17.8em;top: 6.7em;}
+.content .sixr{position: absolute;left: 22em;top: 6.2em;}
+.content .sevenr{width:7.6em;height:2px;background:#fff;position: absolute;left: 18.9em;top: 7.3em;}
+.content .eightr{width:7.1em;height: 5em;position: absolute;left: 19.5em;top: 7.4em;}
+.content .eightr .six{position: absolute;left: 0;top: .4em;}
+.content .eightr .seven{position: absolute;left: .6em;top: .4em;}
+.content .eightr .eight{position: absolute;left: 3.6em;top: -.2em;}
+.content .eightr .nine{width:5.5em;height:2px;background:#fff;position: absolute;left: 1.5em;top: 1em;}
+.content .eightr .ten{position: absolute;left: 1.5em;top:1.5em;}
+.content .eightr .onet{position: absolute;left: 2.2em;top: 1.5em;}
+.content .eightr .twot{position: absolute;left: 4.4em;top: .9em;}
+.content .eightr .threet{width:4em;height:2px;background:#fff;position: absolute;left: 3em;top: 2.1em;}
+.content .eightr .fourt{position: absolute;left: 3em;top: 2.5em;}
+.content .eightr .fivet{position: absolute;left: 3.7em;top: 2.5em;}
+.content .eightr .sixt{position: absolute;left: 5.4em;top: 2em;}
+.content .eightr .sevent{width:2.5em;height:2px;background:#fff;position: absolute;left: 4.5em;top: 3.1em;}
+.content .eightr .eightt{position: absolute;left: 4.3em;top: 3em;line-height: .8em;}
+/*.content .eightr .ninet{position: absolute;left: .9em;top: .3em;}*/
+.content .eightr .ninet{font-size: .7em;position: absolute;left: 1.1em;top: .3em;}
+
+.content .specil{opacity: 0;width:7em;height: 5em;}
+.content .specil .four_two{position: absolute;left: 3.4em;top: 6.8em;color: #8c8c8c;}
+.content .specil .ex_two{position: absolute;left: 2.5em;top: 6.8em;color: #8c8c8c;}
+.content .specil .five{width:7em;height: 5em;position: absolute;left: 3.1em;top:6.4em;color: #8c8c8c;}
+.content .specil .five .six{position: absolute;left: 0;top: .4em;opacity: 0;color: #8c8c8c;}
+.content .specil .five .seven{position: absolute;left: .6em;top: .4em;opacity: 0;color: #8c8c8c;}
+.content .specil .five .eight{position: absolute;left: 3.6em;top: -.2em;color: #8c8c8c;}
+.content .specil .five .nine{width:5.5em;height:2px;background:#fff;position: absolute;left: 1.5em;top: 1em;color: #8c8c8c;}
+.content .specil .five .ten{position: absolute;left: 1.5em;top:1.5em;color: #8c8c8c;}
+.content .specil .five .onet{position: absolute;left: 2.2em;top: 1.5em;color: #8c8c8c;}
+.content .specil .five .twot{position: absolute;left: 4.4em;top: .9em;color: #8c8c8c;}
+.content .specil .five .threet{width:4em;height:2px;background:#fff;position: absolute;left: 3em;top: 2.1em;color: #8c8c8c;}
+.content .specil .five .fourt{position: absolute;left: 3em;top: 2.5em;color: #8c8c8c;}
+.content .specil .five .fivet{position: absolute;left: 3.7em;top: 2.5em;color: #8c8c8c;}
+.content .specil .five .sixt{position: absolute;left: 5.4em;top: 2em;color: #8c8c8c;}
+.content .specil .five .sevent{width:2.5em;height:2px;background:#fff;position: absolute;left: 4.5em;top: 3.1em;color: #8c8c8c;}
+.content .specil .five .eightt{position: absolute;left: 4.3em;top: 2.8em;color: #8c8c8c;}
+.content .specil .five .ninet{color: #8c8c8c;font-size: .7em;position: absolute;left: 1.1em;top: .3em;}
+
+.content .eightr .left_top{width: .05em;height: 2px;background: #fffa49;position: absolute;left: 0;top: 0;opacity: 0;}
+.content .eightr .right_top{width: .05em;height: 2px;background: #fffa49;position: absolute;right: 0;top: 0;opacity: 0;}
+.content .eightr .left_bottom{width: .05em;height: 2px;background: #fffa49;position: absolute;left:0;top: 4.9em;opacity: 0;}
+.content .eightr .right_bottom{width: .05em;height: 2px;background: #fffa49;position: absolute;right: 0;top: 4.9em;opacity: 0;}
+.content .eightr .skew_l{width: 2px;height: 3em;background:#fffa49;position: absolute;left: -1.5em;top: 4.9em;transform: skew(-45deg);opacity: 0;}
+
+.ac{transform:rotateY(90deg);transition: all .5s ease;}
+.bc{transform:rotateY(0deg);transition: all .5s ease;}
+.dc{transform:scale(0.1);transition: all .5s ease;}
+
+.content .oney{position: absolute;left: 7.5em;top: 8.3em;opacity: 0;}
+.content .twoy{position: absolute;left: 22.8em;top: 9.2em;opacity: 0;}
+.content .threey{position: absolute;left: 7em;top: 9.7em;opacity: 0;}
+.content .foury{position: absolute;left: 10.3em;top: 5em;opacity: 0;}
+.content .fivey{width:3em;height: 2px;background: #fff;position: absolute;left:9em;top: 6.3em;opacity: 0;}
+.content .sixy{position: absolute;left:9.2em;top: 6.8em;opacity: 0;}
+.content .seveny{position: absolute;left: 10.2em;top: 6.8em;opacity: 0;}
+.content .eighty{position: absolute;left: 11.5em;top: 6.8em;opacity: 0;}
+.content .niney{position: absolute;left:13em;top: 5.6em; opacity: 0;}
+.content .teny{position: absolute;left: 15.7em;top: 5em;opacity: 0;}
+.content .oneu{width: 3em;height: 2px;background: #fff;position: absolute;left: 14.5em;top: 6.3em;opacity: 0;}
+.content .twou{position: absolute;left: 14.7em;top: 6.7em;opacity: 0;}
+.content .threeu{position: absolute;left: 15.2em;top: 6.7em;opacity: 0;}
+.content .fouru{position: absolute;left: 16.5em;top: 6.2em;opacity: 0;}
+.content .fiveu{width: 1.5em;height: 2px;background: #fff;position: absolute;left:16em;top: 7.3em; opacity: 0;}
+.content .sixu{position: absolute;left: 16.5em;top: 7.1em;opacity: 0;}
+.content .sevenu{position: absolute;left: 16.5em;top: 8.4em;opacity: 0;font-family:Arial;font-weight:normal;}
+.content .eightu{position: absolute;left: 17.5em;top: 8.4em;opacity: 0;}
+.content .nineu{position: absolute;left: 14.3em;top: 10.2em;opacity: 0;}
+.content .tenu{position: absolute;left: 17.5em;top: 10.2em;opacity: 0;}
+.content .onei{position: absolute;left: 18em;top: 10.2em;opacity: 0;font-family:Arial;font-weight:normal;}
+.content .twoi{position: absolute;left: 18.8em;top: 10.2em;opacity: 0;}
+.content .threei{position: absolute;left: 7em;top: 13em;opacity: 0;}
+.content .fouri{position: absolute;left: 9em;top: 13em;opacity: 0;}
+
+.next-btn {background:#120030;}
+.prev-btn {background:#120030;}
+
+.content {line-height:1.3em;}

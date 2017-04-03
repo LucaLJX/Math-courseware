@@ -1,0 +1,7 @@
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+  min-height: 3rem;
+}

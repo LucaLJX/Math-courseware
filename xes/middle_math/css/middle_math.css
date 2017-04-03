@@ -1,0 +1,539 @@
+
+/*字体*/
+@font-face {
+  font-family: "MicrosoftYaHeiGB";
+  src: url("../../common/font/MicrosoftYaHeiGB.ttf"); }
+@font-face {
+  font-family: "TIMESB";
+  src: url("../../common/font/TIMESB.TTF"); }
+@font-face {
+  font-family: "TIMESBI";
+  src: url("../../common/font/TIMESBI.TTF"); }
+/*Reset css*/
+body,
+ul,
+ol,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+table,
+td,
+img,
+div,
+dl,
+dt,
+dd,
+input,i {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+img {
+  border: none; }
+
+ul,
+ol {
+  list-style: none; }
+
+input,
+select,
+textarea {
+  outline: none;
+}
+
+textarea {
+  resize: none; }
+
+a {
+  text-decoration: none;
+}
+
+a:hover, a:visited, a:link, a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+pre {
+  display: block;
+  font-family: "TimesNewRomanBold", "MicrosoftYaHeiGB";
+  white-space: pre;
+}
+
+/*浮动*/
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+
+/*清除浮动*/
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+html {
+  background: #081842;
+  font-family: "TIMESB", "MicrosoftYaHeiGB";
+  font-size: 100px;
+  color: #fff;
+}
+
+body {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+/*上标，下标字体大小*/
+sub,sup{
+  font-size: 0.14rem;
+}
+
+/*斜体文字字体样式*/
+i{
+  font-family: "TIMESBI";
+}
+
+.body {
+  color: #ffffff;
+  font-size: 0.3rem;
+}
+
+.margin-auto {
+  width: 10.24rem;
+  margin: 0 auto;
+}
+
+.warp {
+  width: 10.24rem;
+  min-height: 100%;
+  overflow: hidden;
+  background: url(../img/fullScreen-bg.png);
+  background-size: 10.24rem;
+  position: absolute;
+  margin: 0 auto;
+}
+/*头部*/
+.header {
+  width: 10.24rem;
+  background: url(../img/fullScreen-bg.png);
+  position: fixed;
+  z-index: 100;
+  height: 1.2rem;
+}
+
+.header-text {
+  font-size: 0.36rem;
+  margin: 0.5rem 0.82rem 0 0.82rem;
+  color: #ffd200;
+  width: 50%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.logo {
+  /*background: url("../img/primary-logo.png") no-repeat;*/
+  width: 1.8rem;
+  height: 0.8rem;
+  background-size: 1.8rem 0.8rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+/*内容容器*/
+.content {
+  padding: 2.02rem 0.82rem 0.2rem;
+  margin: auto;
+  width: 8.6rem;
+  line-height: 0.5rem;
+}
+
+/*tab选项卡样式*/
+.tab-container_1,.tab-container_2{
+  width: 10.24rem;
+  background: #081842;
+}
+.tab-container_1{
+  position: fixed;
+  margin-top: 1.2rem;
+  z-index:1000;
+}
+.tab{
+  width: 7.8rem;
+  height: 0.82rem;
+  line-height: 0.4rem;
+  margin-left: 0.82rem;
+  overflow: hidden;
+  position: relative;
+}
+.tab>.tab-menu{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+/*tab选项卡下面分割线的样式*/
+.line{
+  width: 10.24rem;
+  height: 0.12rem;
+  border-top: 0.02rem solid #07428a;
+  position: absolute;
+  top: 0.52rem;
+}
+
+.tab>.tab-menu li{
+  float: left;
+  margin-right: 0.6rem;
+  font-size: 0.28rem;
+  color: rgba(255,255,255,0.7);
+  position: relative;
+  cursor: pointer;
+}
+
+.tab>.tab-menu li.current{
+  font-size: 0.28rem;
+  color: rgba(0,246,255,1);
+}
+.tab-menu li>b{
+  background: url(../img/sharpAngle.svg);
+  width: 0.25rem;
+  height: 0.17rem;
+  -webkit-background-size: 0.25rem 0.17rem;
+  background-size: 0.25rem 0.17rem;
+  position: absolute;
+  left: 50%;
+  margin-left: -0.11rem;
+  margin-top: 0.07rem;
+  z-index: 1;
+  display: none;
+}
+
+.tab-menu li.current>b{
+  display: block;
+}
+
+.tab-mask{
+  width: 0.6rem;
+  height: 0.4rem;
+  background: url(../img/mask.png) no-repeat;
+  -webkit-background-size: 0.6rem 0.4rem;
+  background-size: 0.6rem 0.4rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.bottom-mask-wrapper {
+    position:fixed;
+    /*left:0;*/
+    bottom:0.8rem;
+    width:10.24rem;
+    z-index:98;
+}
+.bottom-mask {
+    background:url(../img/mengban.png) repeat-x 0 0;
+    width:8.64rem;
+    height:0.8rem;
+    margin-left:auto;
+    margin-right:auto;
+}
+/*tab选项左右切换*/
+.tab-switch{
+  height: 0.4rem;
+  line-height:0.4rem;
+  background-color: #081842;
+  position: absolute;
+  right: 0;
+}
+
+.tab-switch>.leftBtn,.tab-switch>.rightBtn{
+    display: inline-block;
+    width: 0.38rem;
+    height: 0.38rem;
+    cursor: pointer;
+}
+.tab-switch>.leftBtn{
+  background: url("../img/leftBtn.png")no-repeat;
+  -webkit-background-size:0.38rem 0.38rem;
+  background-size: 0.38rem 0.38rem;
+  margin-right: 0.44rem;
+}
+
+.tab-switch>.rightBtn{
+  background: url("../img/rightBtn.png") no-repeat;
+  -webkit-background-size:0.38rem 0.38rem;
+  background-size: 0.38rem 0.38rem;
+  margin-right: 0.2rem;
+}
+
+/*tab选项内容区样式*/
+.tab-box{
+  width: 8.6rem;
+  height: auto;
+  margin-top: 0.2rem;
+}
+
+.tab-box>div{
+  display: none;
+}
+.tab-box>div.on{
+  display: block;
+}
+
+/* 两栏分隔样式
+   border: 1px solid #00DEFF; */
+.twoSidesDiv_left{
+  width: 4.2rem;
+}
+.twoSidesDiv_right{
+  width: 3.7rem;
+  padding-left: 0.5rem;
+}
+.twoSidesDiv .title {
+  font-size: 0.32rem;
+  color: #00f6ff;
+}
+.betweenLine{
+  height: 100%;
+}
+
+/*动画演示区*/
+.animation-btn{
+  font-size: 0.28rem;
+  color: #3ab7ff;
+  height: 0.4rem;
+  line-height: 0.4rem;
+}
+.animation-box{
+  margin-top: 0.3rem;
+}
+
+.middle-show-btn {
+  display: inline-block;
+  background-image: url(../img/middle-hide-btn.svg);
+  width: 0.25rem;
+  height: 0.2rem;
+  background-size: 0.25rem 0.2rem;
+  margin-left: 0.2rem;
+  cursor: pointer;
+}
+
+.btn-change {
+  background-image: url("../img/middle-show-btn.svg");
+  width: 0.2rem;
+  height: 0.25rem;
+  background-size: 0.2rem 0.25rem;
+}
+
+/*内容显示隐藏*/
+.middle-hide-text {
+  margin-top: 0.2rem;
+  filter: alpha(opacity=0);
+  -moz-opacity: 0;
+  opacity: 0;
+}
+
+.canvas-box{
+  width: 8.6rem;
+  text-align: center;
+}
+
+.bottom-bar-empty {
+  height: 1.38rem;
+}
+
+/*连连看游戏跳转按钮*/
+.link{
+  width: 8.6rem;
+  height: 0.6rem;
+  line-height: 0.6rem;
+  text-align: center;
+}
+.link> .btn{
+  display: inline-block;
+  width: 1.5rem;
+  height: 0.4rem;
+  line-height: 0.4rem;
+  text-align: center;
+  border: 0.01rem solid rgba(0, 221, 255, 0.5);
+  border-radius: 0.1rem;
+  background-color: rgba(0, 221, 255, 0.2);
+  font-size: 0.24rem;
+  color: #ffffff;
+}
+
+/* 弹框 */
+
+.middle-pop-up-btn>span{
+  width: 0.25rem;
+  height: 0.2rem;
+  display: inline-block;
+  margin-left: 0.2rem;
+  background: url(../img/middle-hide-btn.svg) no-repeat left center;
+  -webkit-background-size: 0.25rem 0.2rem;
+  background-size: 0.25rem 0.2rem;
+}
+.pop-up {
+  width: 8.6rem;
+  min-height: 70%;
+  background: #1e307a;
+  border: solid 0.01rem #376cbb;
+  border-radius: 0.05rem;
+  box-sizing: border-box;
+  position: absolute;
+  z-index: 101;
+  display: none;
+  top: 1.2rem;
+  margin-bottom: 1rem;
+  animation: pop-up 480ms;
+}
+
+.pop-up-title {
+  text-align: center;
+  width: 100%;
+  font-size: 0.36rem;
+  color: #ffd400;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-top: 0.2rem;
+}
+
+.pop-up-content {
+  padding: 0.2rem 0.5rem 0.4rem 0.5rem;
+}
+
+.closeBtn {
+  position: absolute;
+  right: 0.3rem;
+  top: 0.2rem;
+  background-image: url("../img/closeBtn.png");
+  width: 0.4rem;
+  height: 0.4rem;
+  background-size: 0.4rem 0.4rem;
+  cursor: pointer;
+}
+
+@keyframes pop-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.3);
+    transform: scale(0.3); }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05); }
+  70% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9); }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1); }
+}
+/*页面内翻页按钮*/
+#nextPageBtn,#prevPageBtn{
+  display: inline-block;
+  width: 0.38rem;
+  height: 0.38rem;
+  cursor: pointer;
+  -webkit-background-size:0.38rem 0.38rem;
+  background-size: 0.38rem 0.38rem;
+  position: absolute;
+  bottom: 1.5rem;
+}
+
+#nextPageBtn{
+  background-image: url("../img/rightBtn.png");
+  right: 0.82rem;
+}
+
+#prevPageBtn{
+  background-image: url("../img/leftBtn.png");
+  left: 0.82rem;
+}
+
+/*开始挑战和返回按钮*/
+button.button{
+  cursor: pointer;
+  font-family: "MicrosoftYaHeiGB";
+  padding: 0 0.2rem;
+  color: white;
+  font-size: 0.24rem;
+  border: 0.01rem solid #3AB7FF;
+  border-radius: 0.05rem;
+  height: 0.4rem;
+  background-color: rgba(58,183,255,0.2);
+}
+
+/*开始挑战按钮*/
+#startBtn{
+  display:block ;
+  margin: auto;
+  margin-top: 0.1rem;
+}
+
+.anima {
+  background: rgba(0,221,238,0.1);
+  border:1px solid rgb(0,221,238);
+  border-radius: 5px;
+}
+
+/*底部*/
+.bottom-bar{
+  width: 10.24rem;
+  height: 1rem;
+  position: fixed;
+  bottom: 0;
+  z-index: 100;
+}
+
+/*footer的故事背景*/
+.footer-bg-fight-story_1 {
+  background-image:url(../img/footer-bg-story_1.svg);
+}
+.footer-bg-fight-story_2 {
+  background-image:url(../img/footer-bg-story_2.svg);
+}
+.footer-bg-fight-story_3 {
+  background-image:url(../img/footer-bg-story_3.svg);
+}
+.footer-bg-fight-story_4 {
+  background-image:url(../img/footer-bg-story_4.svg);
+}
+.footer-bg-fight-story_5 {
+  background-image:url(../img/footer-bg-story_5.svg);
+}
+.footer-bg-fight-story_6 {
+  background-image:url(../img/footer-bg-story_6.svg);
+}
+
+.footer-bg-knowledge-story_1 {
+  background-image:url(../img/footer-bg_1.svg);
+}
+.footer-bg-knowledge-story_2 {
+  background-image:url(../img/footer-bg_2.svg);
+}
+.footer-bg-knowledge-story_3 {
+  background-image:url(../img/footer-bg_3.svg);
+}
+.footer-bg-knowledge-story_4 {
+  background-image:url(../img/footer-bg_4.svg);
+}
+.footer-bg-knowledge-story_5 {
+  background-image:url(../img/footer-bg_5.svg);
+}
+
+/*粘题模板中图片反色*/
+#pdfToImgBox img{-webkit-filter: invert(1); filter: invert(1);}

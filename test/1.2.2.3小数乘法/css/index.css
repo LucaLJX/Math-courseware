@@ -1,0 +1,62 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+	display: none ;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.zi_111 {left: 1.72rem; top: 0.27rem;}
+.zi_112 {left: 3.28rem; top: 0.27rem;}
+.zi_121 {left: 2.72rem; top: 1.03rem;}
+.zi_122 {left: 3.02rem; top: 1.03rem;}
+.zi_123 {left: 3.32rem; top: 1.03rem;}
+.zi_131 {left: 2.35rem; top: 1.48rem;}
+.zi_132 {left: 2.72rem; top: 1.42rem;}
+.zi_133 {left: 3.02rem; top: 1.42rem;}
+.zi_134 {left: 3.32rem; top: 1.42rem;}
+.zi_14 {left: 2.02rem; top: 1.86rem;}
+.zi_151 {left: 2.72rem; top: 1.86rem;}
+.zi_152 {left: 3.02rem; top: 1.86rem;}
+.zi_153 {left: 3.32rem; top: 1.86rem;}
+.zi_161 {left: 2.12rem; top: 2.26rem;}
+.zi_162 {left: 2.42rem; top: 2.26rem;}
+.zi_163 {left: 2.72rem; top: 2.26rem;}
+.zi_17 {left: 2.02rem; top: 2.73rem;}
+.zi_181 {left: 2.12rem; top: 2.77rem;}
+.zi_182 {left: 2.42rem; top: 2.77rem;}
+.zi_183 {left: 2.72rem; top: 2.77rem;}
+.zi_184 {left: 2.89rem; top: 2.77rem;}
+.zi_185 {left: 3.02rem; top: 2.77rem;}
+.zi_186 {left: 3.32rem; top: 2.77rem;}
+.zi_187 {left: 3.36rem; top: 2.77rem; transform:rotate(90deg); color:#fff336; font-weight: bold;}
+
+.zi_211 {left: 1.72rem; top: 0.27rem;}
+.zi_212 {left: 3.40rem; top: 0.27rem;}
+.zi_221 {left: 2.72rem; top: 1.03rem;}
+.zi_222 {left: 2.90rem; top: 1.03rem;}
+.zi_223 {left: 3.02rem; top: 1.03rem;}
+.zi_224 {left: 3.32rem; top: 1.03rem;}
+.zi_231 {left: 2.35rem; top: 1.48rem;}
+.zi_232 {left: 2.72rem; top: 1.42rem;}
+.zi_233 {left: 2.90rem; top: 1.42rem;}
+.zi_234 {left: 3.02rem; top: 1.42rem;}
+.zi_235 {left: 3.32rem; top: 1.42rem;}
+.zi_24  {left: 2.02rem; top: 1.86rem;}
+.zi_251 {left: 2.72rem; top: 1.86rem;}
+.zi_252 {left: 3.02rem; top: 1.86rem;}
+.zi_253 {left: 3.32rem; top: 1.86rem;}
+.zi_261 {left: 2.72rem; top: 2.26rem;}
+.zi_262 {left: 3.02rem; top: 2.26rem;}
+.zi_263 {left: 3.02rem; top: 2.26rem;}
+.zi_27 {left: 2.02rem; top: 2.73rem;}
+.zi_281 {left: 2.12rem; top: 2.77rem;}
+.zi_282 {left: 2.42rem; top: 2.77rem;}
+.zi_283 {left: 2.72rem; top: 2.77rem;}.zi_284 {left: 3.02rem; top: 2.77rem;}
+.zi_285 {left: 3.32rem; top: 2.77rem;}
+.zi_286 {left: 3.36rem; top: 2.77rem; transform:rotate(90deg); color:#fff336; font-weight: bold;}

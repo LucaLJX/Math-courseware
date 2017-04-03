@@ -1,0 +1,72 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+  display: none;
+}
+.z_animation_content {
+  position: relative;
+}
+
+/* tab-1 -begin */
+
+.zi_170101 {top: 0.30rem; left: 2.00rem;}
+.zi_170102 {top: 0.30rem; left: 5.00rem;} 
+
+.zi_170201 {top: 0.70rem; left: 2.00rem; width: 0.17rem;}
+.zi_170202 {top: 0.70rem; left: 5.00rem; width: 0.30rem;} 
+
+.zi_170301 {top: 0.60rem; left: 2.00rem;}
+.zi_170302 {top: 0.60rem; left: 5.00rem;}
+
+.zi_170401 {top: 1.00rem; left: 2.00rem;}
+.zi_170402 {top: 1.00rem; left: 2.20rem;}
+.zi_170403 {top: 1.00rem; left: 2.45rem;}
+.zi_170404 {top: 1.00rem; left: 5.00rem;}
+.zi_170405 {top: 1.00rem; left: 5.35rem;}
+.zi_170406 {top: 1.00rem; left: 5.60rem;}
+
+.zi_170501 {top: 1.40rem; left: 2.00rem; width: 0.17rem;}
+.zi_170502 {top: 1.40rem; left: 2.17rem; width: 0.23rem;}
+.zi_170503 {top: 1.40rem; left: 2.40rem; width: 0.34rem;}
+.zi_170504 {top: 1.40rem; left: 5.00rem; width: 0.30rem;}
+.zi_170505 {top: 1.40rem; left: 5.30rem; width: 0.23rem;}
+.zi_170506 {top: 1.40rem; left: 5.53rem; width: 0.23rem;}
+
+.zi_170601 {top: 1.30rem; left: 2.00rem;}
+.zi_170602 {top: 1.30rem; left: 2.20rem;}
+.zi_170603 {top: 1.30rem; left: 2.45rem;}
+.zi_170604 {top: 1.30rem; left: 5.00rem;}
+.zi_170605 {top: 1.30rem; left: 5.35rem;}/*left: 5.20rem;*/
+.zi_170606 {top: 1.30rem; left: 5.00rem;}/* left: 5.45rem; */
+
+.zi_170701 {top: 1.80rem; left: 2.00rem;}
+.zi_170702 {top: 1.80rem; left: 2.20rem;}
+.zi_170703 {top: 1.80rem; left: 2.45rem;}
+.zi_170704 {top: 1.80rem; left: 2.85rem;}
+.zi_170705 {top: 1.80rem; left: 3.15rem;}
+.zi_170706 {top: 1.80rem; left: 5.00rem;}
+.zi_170707 {top: 1.80rem; left: 5.35rem;}
+.zi_170708 {top: 1.80rem; left: 5.60rem;}
+.zi_170709 {top: 1.80rem; left: 5.85rem;}
+.zi_170710 {top: 1.80rem; left: 6.10rem;}
+
+.zi_170801 {top: 2.30rem; left: 2.50rem;}
+.zi_170802 {top: 2.30rem; left: 5.30rem;}
+
+.zi_170901 {top: 2.30rem; left: 4.00rem;}/* top: 0.46rem; left: 3.50rem; */
+.zi_170902 {top: 2.30rem; left: 4.00rem;}
+/* tab-1 -end */
+
+/* tab-2 -begin */
+
+
+
+
+
+
+/* tab-2 -end */
+

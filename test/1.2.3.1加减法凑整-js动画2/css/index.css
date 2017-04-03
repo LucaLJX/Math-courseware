@@ -1,0 +1,70 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+  display: none;
+}
+.z_animation_content {
+  position: relative;
+}
+
+/* tab-1 -begin */
+.zi_111 {left: 0.90rem; top: 0.00rem;}
+.zi_112 {left: 6.00rem; top: 0.02rem;}
+
+.zi_120 {left: 0.7rem; top: 0.4rem;}
+.zi_121 {left: 0.9rem; top: 0.4rem;}
+.zi_122 {left: 1.35rem; top: 0.40rem;}/* left: 1.90rem; */
+.zi_123 {left: 1.59rem; top: 0.4rem;}/* left: 2.00rem; */
+.zi_124 {left: 2.20rem; top: 0.40rem;}/* left: 3.30rem; */
+.zi_125 {left: 2.50rem; top: 0.4rem;}/* left: 3.00rem; */
+.zi_126 {left: 3.30rem; top: 0.40rem;}/* left: 4.84rem; */
+.zi_127 {left: 3.60rem; top: 0.4rem;}/* left: 4.00rem; */
+.zi_128 {left: 4.56rem; top: 0.40rem;}/* left: 6.58rem; */
+.zi_129 {left: 4.90rem; top: 0.4rem;}/* left: 5.00rem; */
+
+.zi_131 {left: 0.90rem; top: 0.40rem;display: none;}
+.zi_132 {left: 2.15rem; top: 0.40rem;display: none;}
+.zi_133 {left: 3.56rem; top: 0.40rem;display: none;}
+.zi_134 {left: 5.10rem; top: 0.40rem;display: none;}
+.zi_135 {left: 6.88rem; top: 0.40rem;display: none;}
+
+.zi_141 {left: 0.70rem; top: 0.80rem;}
+
+.zi_151 {left: 0.70rem; top: 1.20rem;}
+
+/* tab-1 -end */
+
+/* tab-2 -begin */
+.zi_211 {left: 0.73rem; top: 0.00rem;}
+.zi_212 {left: 6.00rem; top: 0.02rem;}
+
+.zi_220 {left: 0.60rem; top: 0.40rem;}
+.zi_221 {left: 0.80rem; top: 0.40rem;}
+.zi_222 {left: 1.40rem; top: 0.40rem;}
+.zi_223 {left: 1.60rem; top: 0.40rem;}
+.zi_224 {left: 2.20rem; top: 0.40rem;}
+.zi_225 {left: 2.40rem; top: 0.40rem;}
+.zi_226 {left: 3.00rem; top: 0.40rem;}
+.zi_227 {left: 3.20rem; top: 0.40rem;}
+.zi_228 {left: 3.80rem; top: 0.40rem;}
+.zi_2290 {left: 4.00rem; top: 0.40rem;}/* left: 4.10rem; */
+.zi_2291 {left: 4.60rem; top: 0.40rem;}/* left: 4.70rem; */
+.zi_2292 {left: 4.80rem; top: 0.40rem;}/* left: 4.90rem; */
+.zi_2293 {left: 4.70rem; top: 0.40rem; color: green;}/* left: 4.70rem; */
+.zi_2294 {left: 4.00rem; top: 0.40rem;}
+.zi_2295 {left: 5.50rem; top: 0.40rem;}
+
+.zi_231 {left: 0.60rem; top: 0.80rem;}
+
+.zi_241 {left: 0.60rem; top: 1.20rem;}
+
+
+
+
+
+/* tab-2 -end */
+

@@ -1,0 +1,69 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.zi_111 {left: 1.44rem; top: 1.04rem;}
+.zi_112 {width: 0.3rem; left: 1.36rem; top: 1.57rem;}
+.zi_113 {left: 1.44rem; top: 1.63rem;}
+.zi_121 {left: 3.28rem; top: 1.04rem;}
+.zi_122 {width: 0.3rem; left: 3.20rem; top: 1.57rem;}
+.zi_123 {left: 3.28rem; top: 1.63rem;}
+.zi_131 {left: 5.18rem; top: 1.04rem;}
+.zi_132 {width: 0.3rem; left: 5.10rem; top: 1.57rem;}
+.zi_133 {left: 5.18rem; top: 1.63rem;}
+
+.zi_211 {left: 1.44rem; top: 1.04rem;}
+.zi_212 {width: 0.3rem; left: 1.36rem; top: 1.57rem;}
+.zi_213 {left: 1.44rem; top: 1.63rem;}
+.zi_221 {left: 3.28rem; top: 1.04rem;}
+.zi_222 {width: 0.3rem; left: 3.20rem; top: 1.57rem;}
+.zi_223 {left: 3.28rem; top: 1.63rem;}
+.zi_231 {left: 5.18rem; top: 1.04rem;}
+.zi_232 {width: 0.3rem; left: 5.10rem; top: 1.57rem;}
+.zi_233 {left: 5.18rem; top: 1.63rem;}
+
+.zi_311 {left: 1.44rem; top: 1.35rem;}
+.zi_321 {left: 3.28rem; top: 1.04rem;}
+.zi_321 {left: 3.28rem; top: 1.35rem;}
+.zi_322 {width: 0.3rem; left: 3.20rem; top: 1.57rem;}
+.zi_323 {left: 3.28rem; top: 1.63rem;}
+.zi_331 {left: 5.18rem; top: 1.04rem;}
+.zi_332 {width: 0.3rem; left: 5.10rem; top: 1.57rem;}
+.zi_333 {left: 5.18rem; top: 1.63rem;}
+
+.zi_410 {left: 1.2rem; top: 1.31rem;}
+.zi_411 {left: 1.44rem; top: 1.04rem;}
+.zi_412 {width: 0.3rem; left: 1.36rem; top: 1.57rem;}
+.zi_413 {left: 1.44rem; top: 1.63rem;}
+.zi_420 {left: 3.03rem; top: 1.31rem;}
+.zi_421 {left: 3.28rem; top: 1.04rem;}
+.zi_422 {width: 0.3rem; left: 3.20rem; top: 1.57rem;}
+.zi_423 {left: 3.28rem; top: 1.63rem;}
+.zi_424 {left: 3.28rem; top: 1.04rem;}
+.zi_431 {left: 5.18rem; top: 1.04rem;}
+.zi_432 {width: 0.3rem; left: 5.10rem; top: 1.57rem;}
+.zi_433 {left: 5.18rem; top: 1.63rem;}
+
+.zi_001 {left: 2.00rem; top: 1.57rem; color: #00deff; background: #00deff;}
+.zi_002 {left: 2.80rem; top: 1.51rem; color: #00deff;}
+.zi_011 {left: 3.80rem; top: 1.57rem; color: #00deff; background: #00deff;}
+.zi_012 {left: 4.60rem; top: 1.51rem; color: #00deff;}
+
+.z_arrow-right{
+  width: 0;
+  height: 0;
+  border-top: 0.08rem solid transparent;
+  border-left: 0.16rem solid #00deff;
+  border-bottom: 0.08rem solid transparent;
+  position: absolute;
+}
+
+

@@ -1,0 +1,240 @@
+.pop_up_fixed {
+  position: fixed !important;
+  top: 0.4rem;
+}
+.z_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_line_group_3{
+    top: 1.6rem;
+    left: 3.24rem;
+}
+.z_line_group_4{
+    transform:rotate(33deg);
+    top: 1.6rem;
+    left: 3.66rem;
+}
+.z_line_group_5{
+    transform:rotate(-32deg);
+    top: 1.6rem;
+    left: 3.3rem;
+}
+
+.z_line_group_6{
+    top: 1.6rem;
+    left: 3.74rem;
+}
+/*箭头*/
+.zlg_line_3{
+    float: left;
+    width: 0.02rem;
+    height: 0.4rem;
+    margin: 0.118rem 0 0 0.03rem;
+}
+.zlg_line_4{
+    float: left;
+    width: 0.02rem;
+    height: 0.5rem;
+    margin: 0.118rem 0 0 0.03rem;
+}
+
+.zlg_line_5{
+    float: left;
+    width: 0.02rem;
+    height: 0.5rem;
+    margin: 0.118rem 0 0 0.03rem;
+}
+.zlg_line_6{
+    float: left;
+    width: 0.02rem;
+    height: 0.4rem;
+    margin: 0.118rem 0 0 0.03rem;
+}
+
+.arrow{
+    display: inline-block;
+    border: 0.01rem solid;
+    width: 0;
+    height: 0;
+    vertical-align: middle;
+    background: none;
+}
+.arrow-top{
+    border-top-color: rgba(0,0,0,0);
+    border-top-width: 0;
+    border-right-color: rgba(0,0,0,0);
+    border-right-width: 0.04rem;
+    border-bottom-color: #fff;
+    border-bottom-width: 0.12rem;
+    border-left-color: rgba(0,0,0,0);
+    border-left-width: 0.04rem;
+}
+.z_left {
+  width: 50%;
+  /*text-align: center;*/
+}
+
+.z_ab {
+  position: absolute;
+}
+.z_btn {
+  /*todo*/
+}
+.z_pre_btn_container {
+  bottom: 0.2rem;
+    right: 1.2rem;
+}
+.z_next_btn_container {
+  bottom: 0.2rem;
+    right: 0.5rem;
+}
+
+
+/* 详细 */
+
+.a11 {
+    top: 0.7rem;
+    left: 3rem;
+}
+
+.a12 {
+    top: 0.7rem;
+    left: 4.3rem; 
+}
+
+.a13 {
+    top: 0.7rem;
+    left: 4.3rem; 
+}
+
+.a21 {
+    top: 1.1rem;
+    left: 3.2rem;
+}
+
+.a22 {
+    top: 1.1rem;
+    left: 3.7rem;
+}
+
+.a31 {
+    top: 2rem;
+    left: 2.5rem;
+}
+
+.a32 {
+    top: 2rem;
+    left: 3.2rem;
+}
+
+.a33 {
+    top: 2.1rem;
+    left: 3.45rem;
+    font-size: 0.2rem;
+    color: green;
+}
+
+.a34 {
+    top: 2rem;
+    left: 3.7rem;
+}
+
+.a41 {
+    width: 1.15rem;
+    top: 2.4rem;
+    left: 2.2rem;
+}
+
+.a42 {
+    width: 0.3rem;
+    top: 2.4rem;
+    /* top: 2.5rem; */
+    left: 3.35rem;
+}
+
+.a43 {
+    width: 0.7rem;
+    top: 2.4rem;
+    left: 3.65rem;
+}
+
+.a51 {
+    top: 2.4rem;
+    left: 3.2rem;
+}
+
+.a52 {
+    top: 2.4rem;
+    left: 3.7rem;
+}
+
+.a61 {
+    top: 2.7rem;
+    left: 2.7rem;
+}
+
+.a62 {
+    top: 2.7rem;
+    left: 3.2rem;
+}
+
+.a71 {
+    width: 2.15rem;
+    top: 3.1rem;
+    left: 2.2rem;
+}
+
+.a81 {
+    top: 3.1rem;
+    left: 2.7rem;
+}
+
+.a82 {
+    top: 3.1rem;
+    left: 3.2rem;
+}
+
+.a83 {
+    top: 3.1rem;
+    left: 3.7rem;
+}
+
+/* 右边部分 */
+
+.s11 {
+    top: 1.5rem;
+    left: 5rem
+}
+.s12 {
+    top: 1.5rem;
+    left: 6.4rem
+}
+.s21 {
+    top: 1.9rem;
+    left: 5rem
+}
+.s22 {
+    top: 1.9rem;
+    left: 6.6rem
+}
+.s31 {
+    top: 2.3rem;
+    left: 5rem
+}
+.s32 {
+    top: 2.3rem;
+    left: 6.8rem
+}
+
+/*按钮*/
+
+.button-left_2 {
+    top: 4.7rem;
+    left: 6rem;
+}
+.button-right_2 {
+    top: 4.7rem;
+    left: 7rem;
+}

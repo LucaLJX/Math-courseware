@@ -1,0 +1,128 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+}
+
+
+/* tab-1 -- begin */
+.zi_1101 {top: 0.60rem; left: 0.60rem; z-index: 1;}
+.zi_1102 {top: 0.60rem; left: 1.00rem; z-index: 1;}
+.zi_1103 {top: 0.60rem; left: 1.20rem; z-index: 1;}
+.zi_1104 {top: 0.60rem; left: 1.60rem; z-index: 1;}
+.zi_1105 {top: 0.60rem; left: 1.80rem; z-index: 1;}
+.zi_1106 {top: 0.60rem; left: 2.20rem; z-index: 1;}
+.zi_1107 {top: 0.60rem; left: 2.40rem; z-index: 1;}
+.zi_1108 {top: 0.60rem; left: 2.80rem; z-index: 1;}
+.zi_1109 {top: 0.60rem; left: 3.00rem; z-index: 1;}
+.zi_1110 {top: 0.60rem; left: 3.20rem; z-index: 1;}
+.zi_1111 {top: 0.60rem; left: 3.40rem; z-index: 1;}
+.zi_1112 {top: 0.60rem; left: 3.60rem; z-index: 1;}
+.zi_1113 {top: 0.60rem; left: 3.80rem; z-index: 1;}
+.zi_1114 {top: 0.60rem; left: 4.00rem; z-index: 1;}
+.zi_1115 {top: 0.60rem; left: 4.20rem; z-index: 1;}
+.zi_1116 {top: 0.60rem; left: 4.40rem; z-index: 1;}
+
+.zi_1121 {top: 1.00rem; left: 0.30rem;}
+
+.zi_1122 {top: 1.40rem; left: 0.30rem;}
+
+.zi_1131 {top: 1.00rem; left: 3.05rem;}/* left: 3.30rem; */
+.zi_1132 {top: 1.00rem; left: 4.25rem;}/* left: 4.10rem; */
+
+.zi_1133 {top: 0.00rem; left: 2.00rem;}
+/* 抓取 
+出现：top: 0.00rem; left: 2.00rem;
+下滑：top: 0.30rem; left: 2.00rem;变成1134
+*/
+.zi_1134 {top: 0.30rem; left: 2.00rem;}
+/* 抓取
+上升：top: 0.00rem; left: 2.00rem;1134&&1133
+左移：top: 0.00rem; left: 0.80rem;1134&&1133
+下降：top: 0.30rem; left: 0.80rem;1134&&1133
+释放：1134-fadeOut  1133-fadeIn
+上升：top: 0.00rem; left: 0.80rem;1134&&1133
+右移：top: 0.00rem; left: 3.30rem;1134&&1133
+下降：top: 0.30rem; left: 3.30rem;1134&&1133
+抓取：1133-fadeOut 1134-fadeIn
+左移：top: 0.00rem; left: 0.80rem;1134&&1133
+下降：top: 0.30rem; left: 0.80rem;1134&&1133
+释放：1134-fadeOut 
+ */
+
+.zi_1135 {top: 0.60rem; left: 0.90rem;}
+.zi_1136 {top: 0.60rem; left: 3.90rem;}
+/*左边的向右移动left: + 0.60rem
+右边的向左移动left: - 0.80rem*/
+
+.zi_1137 {top: 0.60rem; left: 1.60rem;}
+.zi_1138 {top: 0.60rem; left: 3.20rem;}
+
+/* tab-1 -- end */
+
+/* tab-2 -- begin */
+
+.zi_2101 {top: 0.60rem; left: 0.60rem; z-index: 1;}
+.zi_2102 {top: 0.60rem; left: 0.75rem; z-index: 1;}
+.zi_2103 {top: 0.60rem; left: 0.90rem; z-index: 1;}
+.zi_2104 {top: 0.60rem; left: 1.05rem; z-index: 1;}
+.zi_2105 {top: 0.60rem; left: 1.30rem; z-index: 1;}
+.zi_2106 {top: 0.60rem; left: 1.55rem; z-index: 1;}
+.zi_2107 {top: 0.60rem; left: 1.70rem; z-index: 1;}
+.zi_2108 {top: 0.60rem; left: 1.95rem; z-index: 1;}
+.zi_2109 {top: 0.60rem; left: 2.20rem; z-index: 1;}
+.zi_2110 {top: 0.60rem; left: 2.35rem; z-index: 1;}
+.zi_2111 {top: 0.60rem; left: 2.50rem; z-index: 1;}
+.zi_2112 {top: 0.60rem; left: 2.65rem; z-index: 1;}
+.zi_2113 {top: 0.60rem; left: 2.90rem; z-index: 1;}
+.zi_2114 {top: 0.60rem; left: 3.15rem; z-index: 1;}
+.zi_2115 {top: 0.60rem; left: 3.30rem; z-index: 1;}
+.zi_2116 {top: 0.60rem; left: 3.55rem; z-index: 1;}
+.zi_2117 {top: 0.60rem; left: 3.80rem; z-index: 1;}
+.zi_2118 {top: 0.60rem; left: 3.95rem; z-index: 1;}
+.zi_2119 {top: 0.60rem; left: 4.10rem; z-index: 1;}
+.zi_2120 {top: 0.60rem; left: 4.35rem; z-index: 1;}
+.zi_2121 {top: 0.60rem; left: 4.60rem; z-index: 1;}
+.zi_2122 {top: 0.60rem; left: 4.75rem; z-index: 1;}
+.zi_2123 {top: 0.60rem; left: 4.90rem; z-index: 1;}
+.zi_2124 {top: 0.60rem; left: 5.05rem; z-index: 1;}
+.zi_2125 {top: 0.60rem; left: 5.30rem; z-index: 1;}
+.zi_2126 {top: 0.60rem; left: 5.55rem; z-index: 1;}
+.zi_2127 {top: 0.60rem; left: 5.70rem; z-index: 1;}
+.zi_2128 {top: 0.60rem; left: 5.85rem; z-index: 1;}
+.zi_2129 {top: 0.60rem; left: 6.10rem; z-index: 1;}
+.zi_2130 {top: 0.60rem; left: 6.35rem; z-index: 1;}
+.zi_2131 {top: 0.60rem; left: 6.50rem; z-index: 1;}
+.zi_2132 {top: 0.60rem; left: 6.65rem; z-index: 1;}
+
+/* 两个隐藏的0 */
+.zi_2133 {top: 0.60rem; left: 3.80rem; z-index: 1;}
+.zi_2134 {top: 0.60rem; left: 5.55rem; z-index: 1;}
+/*两根食指*/
+.zi_2201 {top: 0.95rem; left: 3.90rem;}/* left: 3.65--5.55--5.40rem; */
+.zi_2202 {top: 0.95rem; left: 4.60rem;}/* left: 4.75--6.35--6.504rem; */
+/*两个手抓饼*/
+.zi_2203 {top: -0.10rem; left: 2.50rem;}
+.zi_2204 {top: -0.10rem; left: 2.50rem;}
+/*
+ left: 2.50rem;-->0.90rem;
+ left: 0.90rem;-->4.10rem;
+ left: 4.10rem;-->0.90rem;
+ left: 0.90rem;-->5.85rem;
+ */
+.zi_2205 {top: 0.60rem; left: 1.30rem;}
+.zi_2206 {top: 0.60rem; left: 6.60rem;}
+.zi_2207 {top: 0.60rem; left: 2.45rem;}
+.zi_2208 {top: 0.60rem; left: 5.05rem;}
+
+.zi_2209 {top: 1.00rem; left: 0.30rem;}
+
+.zi_2210 {top: 1.40rem; left: 0.30rem;}
+
+/* tab-2 -- end */

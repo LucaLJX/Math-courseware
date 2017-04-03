@@ -1,0 +1,338 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.primary-show1-btn {
+  color: #fff336;
+  width: 0.3rem;
+  height: 0.26rem;
+  background-size: 0.3rem 0.26rem;
+  cursor: pointer;
+}
+.zi_weight{
+  color: #fff336;
+}
+.z_abs {
+  position: absolute;
+  display: none;
+}
+.zi_block{
+  display: block;
+}
+.z_animation_content {
+  position: relative;
+}
+.z_btn{cursor: pointer;}
+.pop-prev-btn {
+  background-image: url("../../../xes/primary_math/img/primary-prev-btn.png");
+  width: 0.3rem;
+  height: 0.26rem;
+  background-size: 0.3rem 0.26rem;
+  position: absolute;
+  right: 1.3rem;
+  bottom: 0.4rem;
+  cursor: pointer;
+}
+.pop-next-btn {
+  background-image: url("../../../xes/primary_math/img/primary-next-btn.png");
+  width: 0.3rem;
+  height: 0.26rem;
+  background-size: 0.3rem 0.26rem;
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.4rem;
+  cursor: pointer;
+}
+/*第1个li*/
+.zi_1111 {left: 0.00rem; top: 0.00rem;}
+.zi_1112 {left: 1.35rem; top: 0.10rem;}
+.zi_1113 {left: 0.00rem; top: 0.50rem;}
+.zi_1114 {left: 0.00rem; top: 1.00rem;}
+.zi_1115 {left: 1.30rem; top: 1.00rem;}
+.zi_1121 {left: 0.00rem; top: 1.80rem;}
+.zi_1122 {left: 1.50rem; top: 1.90rem;}
+.zi_1123 {left: 0.00rem; top: 2.30rem;}
+.zi_1124 {left: 0.00rem; top: 2.80rem;}
+.zi_1125 {left: 1.30rem; top: 2.80rem;}
+.zi_1131 {left: 0.00rem; top: 3.50rem;}
+.zi_1132 {left: 1.25rem; top: 3.60rem;}
+.zi_1133 {left: 0.00rem; top: 4.00rem;}
+/*popup1*/
+.zi_11101 {top: 0.00rem; left: 1.73rem;}
+.zi_11102 {top: 0.00rem; left: 3.45rem;}
+.zi_11103 {top: 0.00rem; left: 5.15rem;}
+.zi_11111 {top: 0.50rem; left: 1.92rem;}
+.zi_11112 {top: 0.50rem; left: 3.66rem;}
+.zi_11113 {top: 0.50rem; left: 5.38rem;}
+.zi_11121 {top: 1.30rem; left: 1.92rem;}
+.zi_11122 {top: 1.30rem; left: 3.66rem;}
+.zi_11123 {top: 1.30rem; left: 5.38rem;}
+.zi_11131 {top: 1.30rem; left: 3.66rem;}
+.zi_11132 {top: 1.30rem; left: 1.92rem;}
+.zi_11133 {top: 1.30rem; left: 5.38rem;}
+/*.zi_11131 {top: 2.10rem; left: 1.92rem;}*//*最终坐标*/
+/*.zi_11132 {top: 2.10rem; left: 3.66rem;}*/
+/*.zi_11133 {top: 2.10rem; left: 5.38rem;}*/
+.zi_11134 {left: 2.58rem; top: 2.20rem;}
+.zi_11135 {left: 4.39rem; top: 2.20rem;}
+.zi_11141 {top: 2.10rem; left: 1.92rem;}
+.zi_11142 {top: 2.10rem; left: 3.66rem;}
+.zi_11143 {top: 2.10rem; left: 5.38rem;}
+/*.zi_11141 {top: 2.90rem; left: 1.92rem;}*//*最终坐标*/
+/*.zi_11142 {top: 2.90rem; left: 3.66rem;}*/
+/*.zi_11143 {top: 2.90rem; left: 5.38rem;}*/
+/*.zi_11144 {top: 3.04rem; left: 2.58rem;}*/
+/*.zi_11145 {top: 3.04rem; left: 4.39rem;}*/
+.zi_11144 {top: 2.20rem; left: 2.58rem;}
+.zi_11145 {top: 2.20rem; left: 4.39rem;}
+
+.zi_10010 {left: 5.79rem; top: 4.07rem;}
+.zi_10011 {left: 6.66rem; top: 4.07rem;}
+
+/*popup2*/
+.zi_10210 {left: 5.79rem; top: 4.07rem;}
+.zi_10211 {left: 6.66rem; top: 4.07rem;}
+.zi_11201 {top: 0.00rem; left: 1.73rem;}
+.zi_11202 {top: 0.00rem; left: 3.45rem;}
+.zi_11203 {top: 0.00rem; left: 5.15rem;}
+.zi_11211 {top: 0.50rem; left: 1.92rem;}
+.zi_11212 {top: 0.50rem; left: 3.66rem;}
+.zi_11213 {top: 0.50rem; left: 5.38rem;}
+.zi_11221 {top: 1.30rem; left: 1.92rem;}
+.zi_11222 {top: 1.30rem; left: 3.66rem;}
+.zi_11223 {top: 1.30rem; left: 5.38rem;}
+.zi_11231 {top: 1.30rem; left: 5.38rem;}
+.zi_11232 {top: 1.30rem; left: 1.92rem;}
+.zi_11233 {top: 1.30rem; left: 3.66rem;}
+/*.zi_11131 {top: 2.10rem; left: 1.92rem;}*//*最终坐标*/
+/*.zi_11132 {top: 2.10rem; left: 3.66rem;}*/
+/*.zi_11133 {top: 2.10rem; left: 5.38rem;}*/
+.zi_11234 {left: 2.58rem; top: 2.20rem;}
+.zi_11235 {left: 4.39rem; top: 2.20rem;}
+.zi_11241 {top: 2.10rem; left: 1.92rem;}
+.zi_11242 {top: 2.10rem; left: 3.66rem;}
+.zi_11243 {top: 2.10rem; left: 5.38rem;}
+/*.zi_11141 {top: 2.90rem; left: 1.92rem;}*//*最终坐标*/
+/*.zi_11142 {top: 2.90rem; left: 3.66rem;}*/
+/*.zi_11143 {top: 2.90rem; left: 5.38rem;}*/
+/*.zi_11144 {top: 3.04rem; left: 2.58rem;}*/
+/*.zi_11145 {top: 3.04rem; left: 4.39rem;}*/
+.zi_11244 {top: 2.20rem; left: 2.58rem;}
+.zi_11245 {top: 2.20rem; left: 4.39rem;}
+
+.zi_10020 {left: 5.79rem; top: 4.07rem;}
+.zi_10021 {left: 6.66rem; top: 4.07rem;}
+
+/*第2个li*/
+.zi_2111 {left: 0.00rem; top: 0.00rem;}
+.zi_2121 {left: 0.00rem; top: 0.50rem;}
+.zi_2122 {left: 1.30rem; top: 0.50rem;}
+.zi_2131 {left: 0.60rem; top: 1.00rem;}
+.zi_2132 {left: 2.50rem; top: 0.88rem;}
+.zi_2133 {left: 4.30rem; top: 0.88rem;}
+.zi_2134 {left: 6.10rem; top: 1.00rem;}
+.zi_2141 {left: 0.60rem; top: 1.00rem;}
+.zi_2142 {left: 0.64rem; top: 1.50rem;}
+.zi_2143 {left: 0.95rem; top: 1.50rem;}
+.zi_2151 {left: 2.50rem; top: 0.88rem;}
+.zi_2152 {left: 0.50rem; top: 2.00rem;}
+.zi_2153 {left: 0.05rem; top: 1.85rem;}
+.zi_2154 {left: 1.31rem; top: 2.00rem;}
+.zi_2155 {left: 0.12rem; top: 2.15rem;}
+.zi_2156 {left: 1.96rem; top: 2.00rem;}
+.zi_2157 {left: 2.26rem; top: 2.00rem;}
+.zi_2161 {left: 4.30rem; top: 0.88rem;}
+.zi_2162 {left: 0.58rem; top: 2.60rem;}
+.zi_2163 {left: 0.04rem; top: 2.45rem;}
+.zi_2164 {left: 1.46rem; top: 2.60rem;}
+.zi_2165 {left: 0.04rem; top: 2.75rem;}
+.zi_2166 {left: 2.25rem; top: 2.60rem;}
+.zi_2167 {left: 2.51rem; top: 2.60rem;}
+.zi_2171 {left: 6.10rem; top: 1.00rem;}
+.zi_2172 {left: 0.49rem; top: 3.10rem;}
+.zi_2173 {left: 0.83rem; top: 3.10rem;}
+.zi_2181 {left: 0.95rem; top: 1.50rem;}
+.zi_2182 {left: 0.83rem; top: 3.10rem;}
+.zi_2183 {left: 2.51rem; top: 2.60rem;}
+.zi_2184 {left: 2.26rem; top: 2.00rem;}
+.zi_2185 {left: 0.65rem; top: 3.50rem;}
+.zi_2186 {left: 2.72rem; top: 3.50rem;}
+.zi_2187 {left: 5.15rem; top: 3.50rem;}
+.zi_2191 {left: 0.00rem; top: 4.00rem;}
+.zi_2192 {left: 1.60rem; top: 4.00rem;}
+.zi_2193 {left: 3.80rem; top: 3.89rem;}
+.zi_2194 {left: 5.88rem; top: 3.89rem;}
+.zi_2195 {left: 0.65rem; top: 4.00rem;}
+.zi_2196 {left: 2.72rem; top: 4.00rem;}
+.zi_2197 {left: 5.15rem; top: 4.00rem;}
+.zi_21101 {left: 0.00rem; top: 3.50rem;}
+.zi_21102 {left: 1.00rem; top: 3.50rem;}
+.zi_21103 {left: 3.10rem; top: 3.50rem;}
+.zi_21104 {left: 5.48rem; top: 3.50rem;}
+.zi_21105 {left: 0.65rem; top: 3.50rem;}
+.zi_21106 {left: 2.72rem; top: 3.50rem;}
+.zi_21107 {left: 5.15rem; top: 3.50rem;}
+
+/*第3个li*/
+.zi_3111 {left: 0.00rem; top: 0.00rem;}
+.zi_3121 {left: 0.00rem; top: 0.50rem;}
+.zi_3122 {left: 1.30rem; top: 0.50rem;}
+.zi_3131 {left: 1.30rem; top: 1.00rem;}
+.zi_3132 {left: 4.00rem; top: 1.00rem;}
+.zi_3141 {left: 1.30rem; top: 1.00rem;}
+.zi_3142 {left: 2.20rem; top: 1.80rem;}
+.zi_3143 {left: 1.65rem; top: 1.95rem;}
+.zi_3144 {left: 1.30rem; top: 1.80rem;}
+.zi_3145 {left: 2.20rem; top: 1.80rem;}
+.zi_3146 {left: 1.65rem; top: 1.95rem;}
+/*.zi_3144 {left: 3.30rem; top: 1.80rem;}
+.zi_3145 {left: 4.20rem; top: 1.80rem;}
+.zi_3146 {left: 3.65rem; top: 1.95rem;}*/
+.zi_3147 {left: 2.90rem; top: 1.95rem;}
+.zi_3148 {left: 4.35rem; top: 1.95rem;}
+.zi_3149 {left: 4.10rem; top: 1.95rem;}
+.zi_3151 {left: 4.00rem; top: 1.00rem;}
+/*.zi_3151 {left: 1.30rem; top: 2.80rem;}*/
+.zi_3152 {left: 2.20rem; top: 2.60rem;}
+.zi_3153 {left: 1.65rem; top: 2.75rem;}
+.zi_3154 {left: 1.30rem; top: 2.60rem;}
+.zi_3155 {left: 2.20rem; top: 2.60rem;}
+.zi_3156 {left: 1.65rem; top: 2.75rem;}
+/*.zi_3154 {left: 3.30rem; top: 2.80rem;}
+.zi_3155 {left: 4.20rem; top: 2.80rem;}
+.zi_3156 {left: 3.65rem; top: 2.95rem;}*/
+.zi_3157 {left: 2.90rem; top: 2.75rem;}
+.zi_3158 {left: 4.35rem; top: 2.75rem;}
+.zi_3159 {left: 4.10rem; top: 2.75rem;}
+.zi_3161 {left: 1.30rem; top: 1.00rem;}
+.zi_3162 {left: 4.00rem; top: 1.00rem;}
+.zi_3163 {left: 4.10rem; top: 2.75rem;}
+.zi_3164 {left: 4.10rem; top: 1.95rem;}
+.zi_3165 {left: 1.90rem; top: 3.55rem;}
+.zi_3166 {left: 3.20rem; top: 3.55rem;}
+
+/*第4个li*/
+.zi_4111 {left: 0.00rem; top: 0.00rem;}
+.zi_4121 {left: 0.00rem; top: 0.50rem;}
+.zi_4122 {left: 1.30rem; top: 0.50rem;}
+.zi_4131 {left: 1.30rem; top: 1.00rem;}
+.zi_4132 {left: 4.00rem; top: 1.00rem;}
+.zi_41401 {left: 1.30rem; top: 1.00rem;}
+.zi_41411 {left: 1.15rem; top: 1.80rem;}
+.zi_41412 {left: 3.58em; top: 2.10rem;}
+.zi_41413 {left: 1.05rem; top: 2.19rem;}
+.zi_41402 {left: 4.00rem; top: 1.00rem;}
+.zi_41421 {left: 3.78rem; top: 1.80rem;}
+.zi_41422 {left: 3.72rem; top: 2.10rem;}
+.zi_41423 {left: 3.75rem; top: 2.19rem;}
+.zi_41501 {left: 1.30rem; top: 2.50rem;}
+.zi_41502 {left: 4.00rem; top: 2.50rem;}
+.zi_41511 {left: 1.10rem; top: 1.80rem;}
+.zi_41512 {left: 3.85em; top: 2.10rem;}
+.zi_41513 {left: 1.05rem; top: 2.19rem;}
+.zi_41521 {left: 3.72rem; top: 1.80rem;}
+.zi_41522 {left: 3.80rem; top: 2.10rem;}
+.zi_41523 {left: 3.75rem; top: 2.19rem;}
+/*.zi_41511 {left: 1.10rem; top: 2.50rem;}
+.zi_41512 {left: 1.15rem; top: 2.80rem;}
+.zi_41513 {left: 1.05rem; top: 2.89rem;}
+.zi_41521 {left: 3.72rem; top: 2.50rem;}
+.zi_41522 {left: 3.78rem; top: 2.80rem;}
+.zi_41523 {left: 3.75rem; top: 2.89rem;}*/
+.zi_41514 {left: 1.20rem; top: 2.50rem;}
+.zi_41515 {left: 1.15rem; top: 2.50rem;}
+/*.zi_41515 {left: 0.70rem; top: 2.65rem;}*/
+.zi_41524 {left: 3.92rem; top: 2.50rem;}
+.zi_41525 {left: 3.85rem; top: 2.50rem;}
+/*.zi_41525 {left: 3.40rem; top: 2.65rem;}*/
+.zi_4153 {left: 2.50rem; top: 2.65rem;}
+.zi_41611 {left: 1.10rem; top: 3.30rem;}
+.zi_41612 {left: 1.15rem; top: 2.80rem;}
+.zi_41613 {left: 1.05rem; top: 2.89rem;}
+.zi_41621 {left: 3.72rem; top: 3.30rem;}
+.zi_41622 {left: 3.80rem; top: 2.80rem;}
+.zi_41623 {left: 3.75rem; top: 2.89rem;}
+.zi_41614 {left: 1.20rem; top: 2.50rem;}
+.zi_41615 {left: 0.70rem; top: 2.50rem;}
+/*.zi_41515 {left: 0.70rem; top: 2.65rem;}*/
+.zi_41624 {left: 3.92rem; top: 2.50rem;}
+.zi_41625 {left: 3.40rem; top: 2.50rem;}
+/*.zi_41525 {left: 3.40rem; top: 2.65rem;}*/
+.zi_4163 {left: 2.50rem; top: 3.45rem;}
+
+/*第5个li*/
+.zi_5111 {left: 0.00rem; top: 0.15rem;}
+.zi_5112 {left: 0.50rem; top: 0.00rem;}
+.zi_5113 {left: 0.80rem; top: 0.15rem;}
+.zi_5114 {left: 1.20rem; top: 0.00rem;}
+.zi_5115 {left: 1.50rem; top: 0.15rem;}
+.zi_5121 {left: 0.00rem; top: 0.80rem;}
+.zi_5122 {left: 1.30rem; top: 0.80rem;}
+
+.zi_170101 {top: 1.30rem; left: 2.00rem;}
+.zi_170102 {top: 1.30rem; left: 5.00rem;}
+
+.zi_170201 {top: 1.70rem; left: 2.00rem; width: 0.17rem;}
+.zi_170202 {top: 1.70rem; left: 5.00rem; width: 0.30rem;}
+
+.zi_170301 {top: 1.60rem; left: 2.00rem;}
+.zi_170302 {top: 1.60rem; left: 5.00rem;}
+
+.zi_170401 {top: 2.00rem; left: 2.00rem;}
+.zi_170402 {top: 2.00rem; left: 2.20rem;}
+.zi_170403 {top: 2.00rem; left: 2.45rem;}
+.zi_170404 {top: 2.00rem; left: 5.00rem;}
+.zi_170405 {top: 2.00rem; left: 5.35rem;}
+.zi_170406 {top: 2.00rem; left: 5.60rem;}
+
+.zi_170501 {top: 2.40rem; left: 2.00rem; width: 0.17rem;}
+.zi_170502 {top: 2.40rem; left: 2.17rem; width: 0.23rem;}
+.zi_170503 {top: 2.40rem; left: 2.40rem; width: 0.34rem;}
+.zi_170504 {top: 2.40rem; left: 5.00rem; width: 0.30rem;}
+.zi_170505 {top: 2.40rem; left: 5.30rem; width: 0.23rem;}
+.zi_170506 {top: 2.40rem; left: 5.53rem; width: 0.23rem;}
+
+.zi_170601 {top: 2.30rem; left: 2.00rem;}
+.zi_170602 {top: 2.30rem; left: 2.20rem;}
+.zi_170603 {top: 2.30rem; left: 2.45rem;}
+.zi_170604 {top: 2.30rem; left: 5.00rem;}
+.zi_170605 {top: 2.30rem; left: 5.35rem;}/*left: 5.20rem;*/
+.zi_170606 {top: 2.30rem; left: 5.00rem;}/* left: 5.45rem; */
+
+.zi_170701 {top: 2.80rem; left: 2.00rem;}
+.zi_170702 {top: 2.80rem; left: 2.20rem;}
+.zi_170703 {top: 2.80rem; left: 2.45rem;}
+.zi_170704 {top: 2.80rem; left: 2.85rem;}
+.zi_170705 {top: 2.80rem; left: 3.15rem;}
+.zi_170706 {top: 2.80rem; left: 5.00rem;}
+.zi_170707 {top: 2.80rem; left: 5.35rem;}
+.zi_170708 {top: 2.80rem; left: 5.60rem;}
+.zi_170709 {top: 2.80rem; left: 5.85rem;}
+.zi_170710 {top: 2.80rem; left: 6.10rem;}
+
+.zi_170801 {top: 3.30rem; left: 2.50rem;}
+.zi_170802 {top: 3.30rem; left: 5.30rem;}
+
+.zi_170901 {top: 3.30rem; left: 4.00rem;}/* top: 0.46rem; left: 3.50rem; */
+.zi_170902 {top: 3.30rem; left: 4.00rem;}
+
+/*第6个li*/
+.zi_6111 {left: 0.00rem; top: 0.15rem;}
+.zi_6112 {left: 0.50rem; top: 0.00rem;}
+.zi_6113 {left: 0.80rem; top: 0.15rem;}
+.zi_6114 {left: 1.20rem; top: 0.00rem;}
+.zi_6115 {left: 1.50rem; top: 0.15rem;}
+.zi_6116 {left: 2.65rem; top: 0.00rem;}
+.zi_6117 {left: 2.90rem; top: 0.15rem;}
+.zi_6118 {left: 3.30rem; top: 0.00rem;}
+
+/*第7个li*/
+.zi_7111 {left: 0.00rem; top: 0.15rem;}
+.zi_7112 {left: 0.50rem; top: 0.00rem;}
+.zi_7113 {left: 0.80rem; top: 0.15rem;}
+.zi_7114 {left: 1.20rem; top: 0.00rem;}
+.zi_7115 {left: 1.50rem; top: 0.15rem;}
+.zi_7116 {left: 2.65rem; top: 0.00rem;}
+.zi_7117 {left: 2.90rem; top: 0.15rem;}
+.zi_7118 {left: 3.30rem; top: 0.00rem;}

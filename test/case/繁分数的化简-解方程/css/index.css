@@ -1,0 +1,35 @@
+.wrap{position: relative;}
+.content .two{width: 7em;height: 2px;background: #fff;position: absolute;left: 4em;top:7.4em; }
+.content .one{position: absolute;left:7.3em;top: 5.6em; }
+.content .three{position: absolute;left:4.5em;top: 7.7em; }
+.content .four{position: absolute;left: 5.1em;top: 7.7em;}
+.content .six{width: 5em;height: 2px;background: #fff;position: absolute;left: 6em;top: 8.7em;}
+.content .five{position: absolute;left: 8.2em;top:7.2em;}
+.content .seven{position: absolute;left: 6.4em;top: 8.8em;}
+.content .eight{position: absolute;left: 7.1em;top: 8.8em;}
+.content .ten{width: 3em;height: 2px;background: #fff;position: absolute;left: 8em;top: 9.8em;}
+.content .nine{position: absolute;left: 9.2em;top: 8.3em;}
+.content .onet{position: absolute;left: 8.3em;top: 9.9em;}
+.content .twot{position: absolute;left: 9.2em;top: 9.9em;}
+.content .threet{position: absolute;left: 10.2em;top: 9.4em;}
+.content .fourt{width: 1em;height: 2px;background: #fff;position: absolute;left: 10em;top:10.9em;}
+.content .fivet{position: absolute;left: 10.2em;top:10.5em;}
+.content .sixt{position: absolute;left: 12em;top: 6.4em;}
+.content .sevent{position: absolute;left: 13.5em;top: 5.6em;}
+.content .eightt{width: 1em;height: 2px;background: #fff;position: absolute;left: 13.5em;top: 7.4em;}
+.content .ninet{position: absolute;left: 13.5em;top:7.2em;}
+.content .tent{position: absolute;left: 7em;top: 14em;}
+.content .er{opacity: 0;position: absolute;left: 13.8em;top: 6.4em; }
+.content .san{opacity: 0;position: absolute;left: 11em;top: 6.3em; }
+.content .si{opacity: 0;position: absolute;left: 12em;top: 6.4em;}
+.ac{text-shadow: 0 0 2px #fff,0 0 4px #fff,0 0 6px #fff,0 0 8px #fff,0 0 10px #fff}
+.bottom-bar .prev-btn{display: none;}
+.prev-btn {background:#120030;}
+.next-btn {background:#120030;}
+
+
+
+
+
+
+

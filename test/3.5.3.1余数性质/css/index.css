@@ -1,0 +1,464 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.zi_111 {left: 0.8rem; top: 0rem}
+.zi_112 {left: 4.7rem; top: 0rem}
+.zi_121 {left: 0.8rem; top: 0.4rem}
+.zi_122 {left: 3.7rem; top: 0.4rem; color: #fff336}
+.zi_123 {left: 4.7rem; top: 0.4rem}
+.zi_131 {left: 0.8rem; top: 0.8rem}
+.zi_132 {left: 4.7rem; top: 0.8rem}
+.zi_141 {left: 0.8rem; top: 1.4rem; color: #fff336}
+.zi_142 {left: 2.2rem; top: 1.4rem; color: #fff336}
+.zi_151 {left: 0.8rem; top: 2.0rem;}
+.zi_161 {left: 0.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_162 {left: 1.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_163 {left: 1.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_164 {left: 1.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_165 {left: 1.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_166 {left: 2.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_167 {left: 2.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_168 {left: 2.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_169 {left: 2.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_170 {left: 3.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_171 {left: 3.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_172 {left: 3.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_173 {left: 3.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_174 {left: 4.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_175 {left: 4.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_176 {left: 4.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_177 {left: 4.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_178 {left: 5.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_179 {left: 5.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_180 {left: 5.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_181 {left: 5.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_182 {left: 6.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+
+.zi_190 {left: 3.00rem; top: 2.00rem;}
+.zi_192 {left: 0.80rem; top: 2.95rem;}
+.zi_197 {left: 5.80rem; top: 2.95rem;}
+
+.zi_191 {left: 0.80rem; top: 2.20rem;}
+.zi_193 {left:-1.32rem; top: 2.65rem;}
+.zi_194 {left:-0.08rem; top: 2.65rem;}
+.zi_195 {left: 1.18rem; top: 2.65rem;}
+.zi_196 {left: 2.44rem; top: 2.65rem;}
+.zi_198 {left: 3.30rem; top: 2.65rem;}
+
+.zi_1151 {left: 0.80rem; top: 3.0rem;}
+.zi_1161 {left: 0.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1162 {left: 1.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1163 {left: 1.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1164 {left: 1.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1165 {left: 1.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1166 {left: 2.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1167 {left: 2.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1168 {left: 2.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1169 {left: 2.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1170 {left: 3.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1171 {left: 3.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1172 {left: 3.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1173 {left: 3.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1174 {left: 4.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1175 {left: 4.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1176 {left: 4.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+
+.zi_1190 {left: 2.60rem; top: 3.00rem;}
+.zi_1192 {left: 0.80rem; top: 3.95rem;}
+.zi_1197 {left: 4.38rem; top: 3.95rem;}
+
+.zi_1191 {left: 0.04rem; top: 3.20rem;}
+.zi_1193 {left:-1.32rem; top: 3.65rem;}
+.zi_1194 {left:-0.08rem; top: 3.65rem;}
+.zi_1195 {left: 1.18rem; top: 3.65rem;}
+.zi_1198 {left: 1.93rem; top: 3.65rem;}
+
+.zi_1497 {left: 5.60rem; top: 5.50rem;}
+.zi_1498 {left: 3.18rem; top: 5.18rem;}
+
+.zi_1251 {left: 0.80rem; top: 4.0rem;}
+.zi_1261 {left: 0.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1262 {left: 1.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1263 {left: 1.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1264 {left: 1.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1265 {left: 1.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1266 {left: 2.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1267 {left: 2.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1268 {left: 2.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1269 {left: 2.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1270 {left: 3.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1271 {left: 3.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1272 {left: 3.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1273 {left: 3.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1274 {left: 4.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1275 {left: 4.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1276 {left: 4.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_1277 {left: 4.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_1278 {left: 5.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_1279 {left: 5.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_1280 {left: 5.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_1281 {left: 5.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_1282 {left: 6.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+.zi_1361 {left: 0.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1362 {left: 1.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1363 {left: 1.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1364 {left: 1.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1365 {left: 1.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_1366 {left: 2.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1367 {left: 2.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1368 {left: 2.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1369 {left: 2.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1370 {left: 3.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_1371 {left: 3.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1372 {left: 3.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1373 {left: 3.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1374 {left: 4.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1375 {left: 4.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_1376 {left: 4.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+.zi_1461 {left: 5.55rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_1462 {left: 5.80rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_1463 {left: 6.05rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+.zi_211 {left: 0.8rem; top: 0rem}
+.zi_212 {left: 4.7rem; top: 0rem}
+.zi_221 {left: 0.8rem; top: 0.4rem}
+.zi_222 {left: 3.7rem; top: 0.4rem; color: #fff336}
+.zi_223 {left: 4.7rem; top: 0.4rem}
+.zi_231 {left: 0.8rem; top: 0.8rem}
+.zi_232 {left: 4.7rem; top: 0.8rem}
+.zi_241 {left: 0.8rem; top: 1.4rem; color: #fff336}
+.zi_242 {left: 2.2rem; top: 1.4rem; color: #fff336}
+
+.zi_251 {left: 0.8rem; top: 2.0rem;}
+.zi_261 {left: 0.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_262 {left: 1.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_263 {left: 1.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_264 {left: 1.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_265 {left: 1.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_266 {left: 2.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_267 {left: 2.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_268 {left: 2.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_269 {left: 2.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_270 {left: 3.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_271 {left: 3.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_272 {left: 3.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_273 {left: 3.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_274 {left: 4.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_275 {left: 4.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_276 {left: 4.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_277 {left: 4.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_278 {left: 5.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_279 {left: 5.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_280 {left: 5.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_281 {left: 5.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_282 {left: 6.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_290 {left: 3.00rem; top: 2.00rem;}
+.zi_292 {left: 0.80rem; top: 2.95rem;}
+.zi_297 {left: 5.80rem; top: 2.95rem;}
+.zi_291 {left: 0.80rem; top: 2.20rem;}
+.zi_293 {left:-1.32rem; top: 2.65rem;}
+.zi_294 {left:-0.08rem; top: 2.65rem;}
+.zi_295 {left: 1.18rem; top: 2.65rem;}
+.zi_296 {left: 2.44rem; top: 2.65rem;}
+.zi_298 {left: 3.30rem; top: 2.65rem;}
+
+.zi_2151 {left: 0.80rem; top: 3.0rem;}
+.zi_2161 {left: 0.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2162 {left: 1.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2163 {left: 1.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2164 {left: 1.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2165 {left: 1.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2166 {left: 2.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2167 {left: 2.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2168 {left: 2.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2169 {left: 2.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2170 {left: 3.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2171 {left: 3.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2172 {left: 3.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2173 {left: 3.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2174 {left: 4.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2175 {left: 4.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2176 {left: 4.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+
+.zi_2190 {left: 2.60rem; top: 3.00rem;}
+.zi_2192 {left: 0.80rem; top: 3.95rem;}
+.zi_2197 {left: 4.38rem; top: 3.95rem;}
+.zi_2191 {left: 0.04rem; top: 3.20rem;}
+.zi_2193 {left:-1.32rem; top: 3.65rem;}
+.zi_2194 {left:-0.08rem; top: 3.65rem;}
+.zi_2195 {left: 1.18rem; top: 3.65rem;}
+.zi_2198 {left: 1.93rem; top: 3.65rem;}
+.zi_2497 {left: 5.88rem; top: 5.50rem;}
+.zi_2498 {left: 3.42rem; top: 5.18rem;}
+
+.zi_2251 {left: 0.80rem; top: 4.0rem;}
+.zi_2261 {left: 0.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2262 {left: 1.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2263 {left: 1.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2264 {left: 1.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2265 {left: 1.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2266 {left: 2.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2267 {left: 2.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2268 {left: 2.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2269 {left: 2.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2270 {left: 3.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2271 {left: 3.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2272 {left: 3.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2273 {left: 3.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2274 {left: 4.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2275 {left: 4.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2276 {left: 4.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_2277 {left: 4.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_2278 {left: 5.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_2279 {left: 5.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_2280 {left: 5.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_2281 {left: 5.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_2282 {left: 6.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+.zi_2361 {left: 0.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2362 {left: 1.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2363 {left: 1.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2364 {left: 1.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2365 {left: 1.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_2366 {left: 2.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2367 {left: 2.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2368 {left: 2.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2369 {left: 2.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2370 {left: 3.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_2371 {left: 3.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2372 {left: 3.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2373 {left: 3.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2374 {left: 4.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2375 {left: 4.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_2376 {left: 4.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_2461 {left: 5.55rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_2462 {left: 5.80rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_2463 {left: 6.05rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+
+
+.zi_311 {left: 0.8rem; top: 0rem}
+.zi_312 {left: 4.7rem; top: 0rem}
+.zi_321 {left: 0.8rem; top: 0.4rem}
+.zi_322 {left: 3.7rem; top: 0.4rem; color: #fff336}
+.zi_323 {left: 4.7rem; top: 0.4rem}
+.zi_331 {left: 0.8rem; top: 0.8rem}
+.zi_332 {left: 4.7rem; top: 0.8rem}
+.zi_341 {left: 0.8rem; top: 1.4rem; color: #fff336}
+.zi_342 {left: 2.2rem; top: 1.4rem; color: #fff336}
+
+
+
+.zi_351 {left: 0.8rem; top: 2.0rem;}
+.zi_361 {left: 0.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_362 {left: 1.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_363 {left: 1.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_364 {left: 1.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_365 {left: 1.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_366 {left: 2.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_367 {left: 2.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_368 {left: 2.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_369 {left: 2.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_370 {left: 3.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_371 {left: 3.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_372 {left: 3.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_373 {left: 3.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_374 {left: 4.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_375 {left: 4.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_376 {left: 4.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_377 {left: 4.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_378 {left: 5.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_379 {left: 5.30rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_380 {left: 5.55rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_381 {left: 5.80rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_382 {left: 6.05rem; top: 2.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_390 {left: 3.00rem; top: 2.00rem;}
+.zi_392 {left: 0.80rem; top: 2.95rem;}
+.zi_397 {left: 5.80rem; top: 2.95rem;}
+.zi_391 {left: 0.80rem; top: 2.20rem;}
+.zi_393 {left:-1.32rem; top: 2.65rem;}
+.zi_394 {left:-0.08rem; top: 2.65rem;}
+.zi_395 {left: 1.18rem; top: 2.65rem;}
+.zi_396 {left: 2.44rem; top: 2.65rem;}
+.zi_398 {left: 3.30rem; top: 2.65rem;}
+
+.zi_3151 {left: 0.80rem; top: 3.0rem;}
+.zi_3161 {left: 0.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3162 {left: 1.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3163 {left: 1.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3164 {left: 1.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3165 {left: 1.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3166 {left: 2.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3167 {left: 2.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3168 {left: 2.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3169 {left: 2.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3170 {left: 3.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3171 {left: 3.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3172 {left: 3.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3173 {left: 3.80rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3174 {left: 4.05rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3175 {left: 4.30rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3176 {left: 4.55rem; top: 3.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+
+.zi_3190 {left: 2.60rem; top: 3.00rem;}
+.zi_3192 {left: 0.80rem; top: 3.95rem;}
+.zi_3197 {left: 4.38rem; top: 3.95rem;}
+.zi_3191 {left: 0.04rem; top: 3.20rem;}
+.zi_3193 {left:-1.32rem; top: 3.65rem;}
+.zi_3194 {left:-0.08rem; top: 3.65rem;}
+.zi_3195 {left: 1.18rem; top: 3.65rem;}
+.zi_3198 {left: 1.93rem; top: 3.65rem;}
+.zi_3497 {left: 5.60rem; top: 5.50rem;}
+.zi_3498 {left: 3.18rem; top: 5.18rem;}
+
+.zi_3251 {left: 0.80rem; top: 4.0rem;}
+.zi_3261 {left: 0.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3262 {left: 1.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3263 {left: 1.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3264 {left: 1.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3265 {left: 1.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3266 {left: 2.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3267 {left: 2.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3268 {left: 2.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3269 {left: 2.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3270 {left: 3.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3271 {left: 3.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3272 {left: 3.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3273 {left: 3.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3274 {left: 4.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3275 {left: 4.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3276 {left: 4.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_3277 {left: 4.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_3278 {left: 5.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_3279 {left: 5.30rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_3280 {left: 5.55rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #93cddd; }
+.zi_3281 {left: 5.80rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_3282 {left: 6.05rem; top: 4.6rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+.zi_3361 {left: 0.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3362 {left: 1.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3363 {left: 1.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3364 {left: 1.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3365 {left: 1.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #4f81bd; }
+.zi_3366 {left: 2.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3367 {left: 2.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3368 {left: 2.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3369 {left: 2.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3370 {left: 3.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #96a983; }
+.zi_3371 {left: 3.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3372 {left: 3.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3373 {left: 3.80rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3374 {left: 4.05rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3375 {left: 4.30rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #d99690; }
+.zi_3376 {left: 4.55rem; top: 5.0rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_3461 {left: 5.55rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_3462 {left: 5.80rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+.zi_3463 {left: 6.05rem; top: 5.2rem; width: 0.20rem;height: 0.20rem; background-color: #00b0f0; }
+
+
+.zi_411 {left: 0.8rem; top: 0rem;}
+.zi_422 {left: 0.8rem; top: 0.5rem;}
+.zi_423 {left: 2.29rem; top: 0.5rem; color: #fff336}
+.zi_424 {left: 2.65rem; top: 0.5rem;}
+.zi_441 {left: 0.8rem; top: 1.4rem; color: #fff336}
+.zi_442 {left: 2.2rem; top: 1.4rem; color: #fff336}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.zi_880101 {top: 2.00rem; left: 0.80rem;}
+
+.zi_880201 {top: 2.60rem; left: 0.80rem;}
+.zi_880202 {top: 2.60rem; left: 1.00rem;}
+.zi_880203 {top: 2.55rem; left: 1.50rem;}
+.zi_880204 {top: 2.60rem; left: 2.10rem;}
+
+.zi_880301 {top: 3.20rem; left: 0.80rem;}
+.zi_880302 {top: 3.10rem; left: 1.00rem; font-size: 0.20rem;}
+.zi_880303 {top: 3.20rem; left: 1.20rem;}
+.zi_880304 {top: 3.15rem; left: 1.70rem;}
+.zi_880305 {top: 3.20rem; left: 2.30rem;}
+.zi_880306 {top: 3.10rem; left: 2.50rem; font-size: 0.20rem;}
+.zi_880307 {top: 3.20rem; left: 3.80rem;}
+.zi_880308 {top: 3.10rem; left: 4.00rem; font-size: 0.20rem;}
+.zi_880309 {top: 3.20rem; left: 4.20rem;}
+.zi_880310 {top: 3.15rem; left: 4.70rem;}
+.zi_880311 {top: 3.20rem; left: 5.30rem;}
+
+.zi_880401 {top: 3.80rem; left: 0.80rem;}
+.zi_880402 {top: 3.70rem; left: 1.00rem; font-size: 0.20rem;}
+.zi_880403 {top: 3.80rem; left: 1.20rem;}
+.zi_880404 {top: 3.75rem; left: 1.70rem;}
+.zi_880405 {top: 3.80rem; left: 2.30rem;}
+.zi_880406 {top: 3.70rem; left: 2.50rem; font-size: 0.20rem;}
+.zi_880407 {top: 3.80rem; left: 3.80rem;}
+.zi_880408 {top: 3.70rem; left: 4.00rem; font-size: 0.20rem;}
+.zi_880409 {top: 3.80rem; left: 4.20rem;}
+.zi_880410 {top: 3.75rem; left: 4.70rem;}
+.zi_880411 {top: 3.80rem; left: 5.30rem;}
+
+.zi_880501 {top: 4.40rem; left: 0.80rem;}
+.zi_880502 {top: 4.30rem; left: 1.00rem; font-size: 0.20rem;}
+.zi_880503 {top: 4.40rem; left: 1.20rem;}
+.zi_880504 {top: 4.35rem; left: 1.70rem;}
+.zi_880505 {top: 4.40rem; left: 2.30rem;}
+.zi_880506 {top: 4.30rem; left: 2.50rem; font-size: 0.20rem;}
+.zi_880507 {top: 4.40rem; left: 3.80rem;}
+.zi_880508 {top: 4.30rem; left: 4.00rem; font-size: 0.20rem;}
+.zi_880509 {top: 4.40rem; left: 4.20rem;}
+.zi_880510 {top: 4.35rem; left: 4.70rem;}
+.zi_880511 {top: 4.40rem; left: 5.30rem;}
+
+.zi_880601 {top: 5.00rem; left: 0.80rem;}
+.zi_880602 {top: 4.90rem; left: 1.00rem; font-size: 0.20rem;}
+.zi_880603 {top: 5.00rem; left: 1.20rem;}
+.zi_880604 {top: 4.95rem; left: 1.70rem;}
+.zi_880605 {top: 5.00rem; left: 2.30rem;}
+.zi_880606 {top: 4.90rem; left: 2.50rem; font-size: 0.20rem;}
+.zi_880607 {top: 5.00rem; left: 3.80rem;}
+.zi_880608 {top: 4.90rem; left: 4.00rem; font-size: 0.20rem;}
+.zi_880609 {top: 5.00rem; left: 4.20rem;}
+.zi_880610 {top: 4.95rem; left: 4.70rem;}
+.zi_880611 {top: 5.00rem; left: 5.30rem;}
+
+.zi_888888 {top: 4.20rem; left: 6.00rem;}

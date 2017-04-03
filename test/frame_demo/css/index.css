@@ -1,0 +1,30 @@
+.z_white_line {
+    height: 2px;
+    background: #fff;
+    position: absolute;
+}
+.z_abs {
+	position: absolute;
+}
+.z_animation_content {
+  position: relative;
+}
+
+.zi_1 {left: 1.48rem; top: 1.09rem;}
+.zi_2 {left: 2.24rem; top: 1.1rem;}
+.zi_6 {width: 0.3rem; left: 2.11rem; top: 1.55rem;}
+.zi_3 {width: 0.3rem; left: 1.35rem; top: 1.58rem;}
+.zi_4 {left: 1.47rem; top: 1.64rem;}
+.zi_5 {left: 2.19rem; top: 1.66rem;}
+
+.zi_8 {left: 5.12rem; top: 1.14rem;}
+.zi_18 {left: 6.71rem; top: 0.98rem;}
+.zi_9 {transform: rotate(60deg); left: 5.39rem; top: 1.91rem;}
+.zi_19 {transform: rotate(160deg); left: 6.47rem; top: 1.74rem;}
+
+.zi_14 {left: 2.55rem; top: 0.64rem;}
+.zi_15 {left: 1.93rem; top: 0.64rem;}
+.zi_12 {left: 3.26rem; top: 0.64rem;}
+.zi_11 {left: 1.95rem; top: 1.26rem;}
+.zi_16 {width: 0.3rem; left: 2.59rem; top: 1.38rem;}
+.zi_13 {width: 0.3rem; left: 3.29rem; top: 1.52rem;}
